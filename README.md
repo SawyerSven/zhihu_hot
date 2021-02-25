@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Feb 25 2021 09:10:04 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Feb 25 2021 10:13:51 GMT+0000 (Coordinated Universal Time) -->
   1. [货拉拉道歉](https://www.zhihu.com/search?q=货拉拉)
 1. [基金大规模下跌](https://www.zhihu.com/search?q=基金大跌)
 1. [「小马云」系二级智力残疾](https://www.zhihu.com/search?q=小马云)
@@ -13,6 +13,6 @@
 1. [中小学生禁止带手机入课堂](https://www.zhihu.com/search?q=中小学禁止带手机)
 1. [马金瑜提交最新证据](https://www.zhihu.com/search?q=马金瑜)
 1. [男子请求政府「分配对象」](https://www.zhihu.com/search?q=分配对象)
-1. [农心杯申真谞战胜柯洁](https://www.zhihu.com/search?q=柯洁)
 1. [考研初试出分在即](https://www.zhihu.com/search?q=2021考研)
+1. [农心杯申真谞战胜柯洁](https://www.zhihu.com/search?q=柯洁)
   <!-- END -->
