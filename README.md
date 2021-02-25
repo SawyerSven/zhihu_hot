@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Feb 25 2021 13:11:03 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Feb 25 2021 14:12:03 GMT+0000 (Coordinated Universal Time) -->
   1. [货拉拉道歉](https://www.zhihu.com/search?q=货拉拉)
 1. [基金大规模下跌](https://www.zhihu.com/search?q=基金大跌)
 1. [「小马云」系二级智力残疾](https://www.zhihu.com/search?q=小马云)
