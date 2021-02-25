@@ -1,0 +1,29 @@
+name: schedule
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{matrix.node-version}}
+      - name: Run Build
+        run: |
+          git config --local user.email "kormondor@gmail.com"
+          git config --local user.name "Sawyersven"
+          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git pull --rebase
+          npm install
+          node main.js
+          git add .
+          git commit -m "update by github action"
+          git push
