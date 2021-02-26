@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Feb 26 2021 06:10:26 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Feb 26 2021 07:09:05 GMT+0000 (Coordinated Universal Time) -->
   1. [2021 考研初试成绩公布](https://www.zhihu.com/search?q=考研成绩)
 1. [元宵节文案你 get 了吗？](https://www.zhihu.com/search?q=元宵节)
 1. [基金大规模下跌](https://www.zhihu.com/search?q=基金大跌)
