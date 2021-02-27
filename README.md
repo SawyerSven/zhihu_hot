@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Feb 27 2021 01:36:21 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Feb 27 2021 02:17:40 GMT+0000 (Coordinated Universal Time) -->
   1. [2021 考研初试成绩公布](https://www.zhihu.com/search?q=考研成绩)
 1. [元宵节文案你 get 了吗？](https://www.zhihu.com/search?q=元宵节)
 1. [电影真人版《猫和老鼠》](https://www.zhihu.com/search?q=猫和老鼠)
@@ -14,5 +14,4 @@
 1. [篮网 129:92 轻取魔术](https://www.zhihu.com/search?q=篮网)
 1. [郭敬明回应反剽窃基金](https://www.zhihu.com/search?q=郭敬明)
 1. [老师对比家长收入歧视学生](https://www.zhihu.com/search?q=老师对比家长收入)
-1. [日媒称福原爱江宏杰将分居](https://www.zhihu.com/search?q=福原爱江宏杰)
   <!-- END -->
