@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Feb 28 2021 21:08:09 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Feb 28 2021 22:09:47 GMT+0000 (Coordinated Universal Time) -->
   1. [肖战发长文道歉](https://www.zhihu.com/search?q=肖战)
 1. [吴孟达因病救治无效去世](https://www.zhihu.com/search?q=吴孟达)
 1. [电视剧《山河令》](https://www.zhihu.com/search?q=山河令)
