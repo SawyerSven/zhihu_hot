@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Feb 28 2021 10:10:25 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Feb 28 2021 11:09:07 GMT+0000 (Coordinated Universal Time) -->
   1. [肖战发长文道歉](https://www.zhihu.com/search?q=肖战)
 1. [吴孟达因病救治无效去世](https://www.zhihu.com/search?q=吴孟达)
 1. [电视剧《山河令》](https://www.zhihu.com/search?q=山河令)
@@ -14,5 +14,4 @@
 1. [2021考研国家线会不会猛涨？](https://www.zhihu.com/search?q=考研国家线)
 1. [大陆将暂停进口台湾地区菠萝](https://www.zhihu.com/search?q=暂停进口菠萝)
 1. [林书豪被叫「新冠病毒」](https://www.zhihu.com/search?q=林书豪)
-1. [电影真人版《猫和老鼠》](https://www.zhihu.com/search?q=猫和老鼠)
   <!-- END -->
