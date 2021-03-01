@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Mar 01 2021 00:25:17 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Mar 01 2021 01:40:43 GMT+0000 (Coordinated Universal Time) -->
   1. [肖战发长文道歉](https://www.zhihu.com/search?q=肖战)
 1. [吴孟达因病救治无效去世](https://www.zhihu.com/search?q=吴孟达)
 1. [张小斐粉丝后援会被解散](https://www.zhihu.com/search?q=张小斐)
