@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Mar 03 2021 19:06:45 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Mar 03 2021 20:10:17 GMT+0000 (Coordinated Universal Time) -->
   1. [日媒爆料福原爱已离婚](https://www.zhihu.com/search?q=福原爱)
 1. [新人用汉服照登记结婚被拒](https://www.zhihu.com/search?q=汉服登记结婚)
 1. [货拉拉涉事司机被批捕](https://www.zhihu.com/search?q=货拉拉司机被捕)
