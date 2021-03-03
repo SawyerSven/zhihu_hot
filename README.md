@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Mar 03 2021 00:23:34 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Mar 03 2021 01:38:00 GMT+0000 (Coordinated Universal Time) -->
   1. [进击的巨人更新](https://www.zhihu.com/search?q=进击的巨人)
 1. [日本请求中方评估肛拭子检测](https://www.zhihu.com/search?q=肛拭子)
 1. [魅族科技发布 Flyme 9](https://www.zhihu.com/search?q=flyme9)
