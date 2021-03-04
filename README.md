@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Mar 04 2021 01:38:38 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Mar 04 2021 02:20:49 GMT+0000 (Coordinated Universal Time) -->
   1. [新人用汉服照登记结婚被拒](https://www.zhihu.com/search?q=汉服登记结婚)
 1. [教资面试成绩](https://www.zhihu.com/search?q=教资面试成绩)
 1. [大疆发布 DJI FPV 无人机](https://www.zhihu.com/search?q=fpv)
