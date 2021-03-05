@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Mar 05 2021 21:08:40 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Mar 05 2021 22:10:25 GMT+0000 (Coordinated Universal Time) -->
   1. [《旺达幻视》大结局](https://www.zhihu.com/search?q=旺达幻视)
 1. [建议报警系统单列「家庭暴力」](https://www.zhihu.com/search?q=家庭暴力)
 1. [媒体评货拉拉坠亡案](https://www.zhihu.com/search?q=媒体评论货拉拉)
