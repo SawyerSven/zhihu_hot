@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Mar 06 2021 10:10:57 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Mar 06 2021 11:09:10 GMT+0000 (Coordinated Universal Time) -->
   1. [《旺达幻视》大结局](https://www.zhihu.com/search?q=旺达幻视)
 1. [媒体评货拉拉坠亡案](https://www.zhihu.com/search?q=媒体评论货拉拉)
 1. [北大开设电竞人才研修班](https://www.zhihu.com/search?q=北大电竞)
@@ -14,5 +14,4 @@
 1. [阿里员工发文《致阿里》](https://www.zhihu.com/search?q=致阿里)
 1. [迪士尼动画电影《寻龙传说》](https://www.zhihu.com/search?q=寻龙传说)
 1. [NBA 全明星对阵出炉](https://www.zhihu.com/search?q=nba全明星)
-1. [建议取消英语中小学主科地位](https://www.zhihu.com/search?q=取消英语)
   <!-- END -->
