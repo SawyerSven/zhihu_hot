@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Mar 06 2021 04:12:06 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Mar 06 2021 05:09:14 GMT+0000 (Coordinated Universal Time) -->
   1. [《旺达幻视》大结局](https://www.zhihu.com/search?q=旺达幻视)
 1. [建议报警系统单列「家庭暴力」](https://www.zhihu.com/search?q=家庭暴力)
 1. [媒体评货拉拉坠亡案](https://www.zhihu.com/search?q=媒体评论货拉拉)
@@ -14,5 +14,4 @@
 1. [《赘婿》大结局](https://www.zhihu.com/search?q=赘婿)
 1. [阿里员工发文《致阿里》](https://www.zhihu.com/search?q=致阿里)
 1. [玻利维亚一大学多名学生坠亡](https://www.zhihu.com/search?q=玻利维亚)
-1. [建议延长义务教育年限](https://www.zhihu.com/search?q=延长义务教育)
   <!-- END -->
