@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Mar 07 2021 19:07:10 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Mar 07 2021 20:10:00 GMT+0000 (Coordinated Universal Time) -->
   1. [《你好，李焕英》票房破 50 亿](https://www.zhihu.com/search?q=李焕英)
 1. [建议拟定中国汉服日](https://www.zhihu.com/search?q=汉服)
 1. [60 岁以上老人接种新冠疫苗](https://www.zhihu.com/search?q=新冠疫苗)
