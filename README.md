@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Mar 08 2021 17:27:17 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Mar 08 2021 18:12:02 GMT+0000 (Coordinated Universal Time) -->
   1. [建议提高来华留学生招生标准](https://www.zhihu.com/search?q=留学生)
 1. [建议应届生身份保留年限延长至 5 年](https://www.zhihu.com/search?q=应届生)
 1. [建议缩短教育学制](https://www.zhihu.com/search?q=教育学制)
