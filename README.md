@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Mar 11 2021 04:12:21 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Mar 11 2021 05:09:57 GMT+0000 (Coordinated Universal Time) -->
   1. [建议对 996 工作制进行监管](https://www.zhihu.com/search?q=996)
 1. [建议整顿无底线追星](https://www.zhihu.com/search?q=流量明星)
 1. [人大代表建议推行「免费婚检」](https://www.zhihu.com/search?q=婚前体检)
@@ -14,5 +14,4 @@
 1. [建议放宽小学入学年龄](https://www.zhihu.com/search?q=入学年龄)
 1. [人大代表建议提高普高录取率](https://www.zhihu.com/search?q=提高普高录取率)
 1. [建议明确中学性教育课时安排](https://www.zhihu.com/search?q=性教育)
-1. [建议心理咨询费纳入医保](https://www.zhihu.com/search?q=心理咨询医保)
   <!-- END -->
