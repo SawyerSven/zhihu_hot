@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Mar 12 2021 20:10:37 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Mar 12 2021 21:08:42 GMT+0000 (Coordinated Universal Time) -->
   1. [建议对 996 工作制进行监管](https://www.zhihu.com/search?q=996)
 1. [庞麦郎因精神分裂症入院](https://www.zhihu.com/search?q=庞麦郎)
 1. [2021 考研国家线公布](https://www.zhihu.com/search?q=考研国家线)
