@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Mar 13 2021 14:09:59 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Mar 13 2021 15:09:25 GMT+0000 (Coordinated Universal Time) -->
   1. [庞麦郎因精神分裂症入院](https://www.zhihu.com/search?q=庞麦郎)
 1. [2021 考研国家线公布](https://www.zhihu.com/search?q=考研国家线)
 1. [电影《阿凡达》重映](https://www.zhihu.com/search?q=阿凡达)
