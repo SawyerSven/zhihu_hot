@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Mar 14 2021 21:08:41 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Mar 14 2021 22:10:22 GMT+0000 (Coordinated Universal Time) -->
   1. [王子文承认已育有一子](https://www.zhihu.com/search?q=王子文)
 1. [电影《阿凡达》重映](https://www.zhihu.com/search?q=阿凡达)
 1. [比特币触及 6 万美元大关](https://www.zhihu.com/search?q=比特币)
