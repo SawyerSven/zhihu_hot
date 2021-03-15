@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Mar 15 2021 09:10:19 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Mar 15 2021 10:11:07 GMT+0000 (Coordinated Universal Time) -->
   1. [3.15 消费者权益日](https://www.zhihu.com/search?q=315)
 1. [王子文承认已育有一子](https://www.zhihu.com/search?q=王子文)
 1. [电影《阿凡达》重映](https://www.zhihu.com/search?q=阿凡达)
