@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Mar 16 2021 08:11:30 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Mar 16 2021 09:08:41 GMT+0000 (Coordinated Universal Time) -->
   1. [315 晚会](https://www.zhihu.com/search?q=315)
 1. [何炅与男子牵手过马路](https://www.zhihu.com/search?q=何炅)
 1. [网爆王一博李子璇恋情](https://www.zhihu.com/search?q=王一博李子璇)
@@ -14,5 +14,4 @@
 1. [《吐槽大会》第五季第七期](https://www.zhihu.com/search?q=吐槽大会)
 1. [滴滴司机开车冲撞乘客](https://www.zhihu.com/search?q=滴滴)
 1. [沙尘暴](https://www.zhihu.com/search?q=沙尘暴)
-1. [篮网 117:112 险胜尼克斯](https://www.zhihu.com/search?q=篮网)
   <!-- END -->
