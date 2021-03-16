@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Mar 16 2021 01:40:51 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Mar 16 2021 02:25:18 GMT+0000 (Coordinated Universal Time) -->
   1. [315 晚会](https://www.zhihu.com/search?q=315)
 1. [张雨剑承认与吴倩已婚生子](https://www.zhihu.com/search?q=张雨剑吴倩)
 1. [进击的巨人动画更新](https://www.zhihu.com/search?q=进击的巨人)
