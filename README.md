@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Mar 18 2021 00:24:39 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Mar 18 2021 01:42:54 GMT+0000 (Coordinated Universal Time) -->
   1. [四六级报名](https://www.zhihu.com/search?q=四六级报名)
 1. [姚安娜发布跳舞视频](https://www.zhihu.com/search?q=姚安娜)
 1. [江一燕隐婚生子](https://www.zhihu.com/search?q=江一燕)
