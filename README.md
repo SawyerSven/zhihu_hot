@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Mar 18 2021 07:08:42 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Mar 18 2021 08:11:47 GMT+0000 (Coordinated Universal Time) -->
   1. [西藏冒险王遗体疑似被找到](https://www.zhihu.com/search?q=西藏冒险王)
 1. [花呗借呗不得向大学生放款](https://www.zhihu.com/search?q=花呗)
 1. [武汉离婚率大大下降](https://www.zhihu.com/search?q=离婚冷静期)
@@ -14,5 +14,4 @@
 1. [徐静雨评周琦范志毅](https://www.zhihu.com/search?q=徐静雨)
 1. [北京 50 平学区房售价 620 万 ](https://www.zhihu.com/search?q=学区房)
 1. [拼多多超越阿里](https://www.zhihu.com/search?q=拼多多超阿里)
-1. [何炅 费启鸣](https://www.zhihu.com/search?q=何炅)
   <!-- END -->
