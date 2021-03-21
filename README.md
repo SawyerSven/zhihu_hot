@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Mar 21 2021 17:36:32 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Mar 21 2021 18:18:28 GMT+0000 (Coordinated Universal Time) -->
   1. [中美高层战略对话](https://www.zhihu.com/search?q=中美对话)
 1. [电视剧《大宋宫词》](https://www.zhihu.com/search?q=大宋宫词)
 1. [三星堆是什么](https://www.zhihu.com/search?q=三星堆未解之谜)
