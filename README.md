@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Mar 22 2021 01:50:28 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Mar 22 2021 02:34:29 GMT+0000 (Coordinated Universal Time) -->
   1. [中美高层战略对话](https://www.zhihu.com/search?q=中美对话)
 1. [电视剧《大宋宫词》](https://www.zhihu.com/search?q=大宋宫词)
 1. [英特尔请杨笠宣传引争议](https://www.zhihu.com/search?q=英特尔 杨笠)
