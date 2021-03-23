@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Mar 23 2021 07:09:36 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Mar 23 2021 08:12:28 GMT+0000 (Coordinated Universal Time) -->
   1. [电子烟将参照卷烟监管](https://www.zhihu.com/search?q=电子烟)
 1. [廖启智患胃癌](https://www.zhihu.com/search?q=廖启智)
 1. [doinb 就房管事件道歉](https://www.zhihu.com/search?q=doinb)
@@ -14,5 +14,4 @@
 1. [百度回港上市](https://www.zhihu.com/search?q=百度)
 1. [女子拿 offer 后未入职遭 HR 曝光](https://www.zhihu.com/search?q=hr)
 1. [马思纯恋情疑曝光](https://www.zhihu.com/search?q=马思纯)
-1. [廖启智患胃癌](https://www.zhihu.com/search?q=胃癌)
   <!-- END -->
