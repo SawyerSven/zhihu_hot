@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Mar 23 2021 10:11:07 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Mar 23 2021 11:09:17 GMT+0000 (Coordinated Universal Time) -->
   1. [电子烟将参照卷烟监管](https://www.zhihu.com/search?q=电子烟)
 1. [廖启智患胃癌](https://www.zhihu.com/search?q=廖启智)
 1. [荣耀 v40 轻奢版发布](https://www.zhihu.com/search?q=荣耀)
