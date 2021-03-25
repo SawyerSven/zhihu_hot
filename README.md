@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Mar 25 2021 07:17:08 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Mar 25 2021 08:18:53 GMT+0000 (Coordinated Universal Time) -->
   1. [艺人发声与 HM、Nike 等品牌解约](https://www.zhihu.com/search?q=明星解约)
 1. [「新疆棉」事件中的品牌们](https://www.zhihu.com/search?q=新疆棉)
 1. [BCI 回应](https://www.zhihu.com/search?q=bci)
@@ -14,6 +14,4 @@
 1. [东京奥运火炬重新传递](https://www.zhihu.com/search?q=奥运会)
 1. [《青春有你 3》第 11 期延播](https://www.zhihu.com/search?q=青春有你)
 1. [Nike 官网境外发布声明](https://www.zhihu.com/search?q=Nike)
-1. [三星堆文物保护修复馆](https://www.zhihu.com/search?q=三星堆)
-1. [台媒曝福原爱提出离婚](https://www.zhihu.com/search?q=福原爱)
   <!-- END -->
