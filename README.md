@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Mar 26 2021 22:13:25 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Mar 26 2021 23:14:01 GMT+0000 (Coordinated Universal Time) -->
   1. [肖战代言李宁](https://www.zhihu.com/search?q=肖战)
 1. [男子强奸 10 岁女童获刑 12 年](https://www.zhihu.com/search?q=10 岁女童)
 1. [耐克阿迪股价大跌](https://www.zhihu.com/search?q=耐克阿迪)
