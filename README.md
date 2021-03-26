@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Mar 26 2021 08:16:22 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Mar 26 2021 09:17:08 GMT+0000 (Coordinated Universal Time) -->
   1. [肖战代言李宁](https://www.zhihu.com/search?q=肖战)
 1. [小米将推出自研芯片](https://www.zhihu.com/search?q=小米)
 1. [耐克阿迪股价大跌](https://www.zhihu.com/search?q=耐克阿迪)
@@ -14,6 +14,4 @@
 1. [电视开机广告被判侵权](https://www.zhihu.com/search?q=开机广告)
 1. [NBA 交易截止日](https://www.zhihu.com/search?q=NBA)
 1. [「新疆棉」事件中的品牌们](https://www.zhihu.com/search?q=新疆棉)
-1. [BCI 回应](https://www.zhihu.com/search?q=bci)
-1. [张少华去世](https://www.zhihu.com/search?q=张少华)
   <!-- END -->
