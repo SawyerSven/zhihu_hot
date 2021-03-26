@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Mar 26 2021 00:36:42 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Mar 26 2021 01:38:39 GMT+0000 (Coordinated Universal Time) -->
   1. [艺人发声与 HM、Nike 等品牌解约](https://www.zhihu.com/search?q=明星解约)
 1. [「新疆棉」事件中的品牌们](https://www.zhihu.com/search?q=新疆棉)
 1. [BCI 回应](https://www.zhihu.com/search?q=bci)
