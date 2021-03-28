@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Mar 28 2021 01:59:28 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Mar 28 2021 02:44:48 GMT+0000 (Coordinated Universal Time) -->
   1. [公务员考试](https://www.zhihu.com/search?q=公务员)
 1. [肖战代言李宁](https://www.zhihu.com/search?q=肖战)
 1. [乌合麒麟讽刺 BCI 新作](https://www.zhihu.com/search?q=乌合麒麟)
