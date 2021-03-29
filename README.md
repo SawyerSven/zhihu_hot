@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Mar 29 2021 11:12:41 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Mar 29 2021 12:19:57 GMT+0000 (Coordinated Universal Time) -->
   1. [进击的巨人 part1 完结](https://www.zhihu.com/search?q=进击的巨人)
 1. [小米新品发布会](https://www.zhihu.com/search?q=小米)
 1. [庄神加盟湖人](https://www.zhihu.com/search?q=庄神)
