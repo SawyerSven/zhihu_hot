@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Mar 29 2021 21:13:10 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Mar 29 2021 22:15:42 GMT+0000 (Coordinated Universal Time) -->
   1. [小米 11 Ultra 将首发全相变散热技术](https://www.zhihu.com/search?q=小米11ultra)
 1. [刘不言去世](https://www.zhihu.com/search?q=刘不言)
 1. [小米新品发布会](https://www.zhihu.com/search?q=小米)
