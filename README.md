@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Mar 30 2021 08:17:18 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Mar 30 2021 09:15:16 GMT+0000 (Coordinated Universal Time) -->
   1. [小米新品发布会](https://www.zhihu.com/search?q=小米)
 1. [哈尔滨落马副局长拥百辆豪车](https://www.zhihu.com/search?q=哈尔滨李伟)
 1. [数万条偷拍视频被贩卖](https://www.zhihu.com/search?q=偷拍视频)
@@ -14,5 +14,4 @@
 1. [包钢通报职工跳入高炉钢水](https://www.zhihu.com/search?q=包钢工人)
 1. [腾讯投资黑神话游戏团队](https://www.zhihu.com/search?q=黑神话：悟空)
 1. [专家解读延迟退休](https://www.zhihu.com/search?q=延迟退休)
-1. [刘不言去世](https://www.zhihu.com/search?q=刘不言)
   <!-- END -->
