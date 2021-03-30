@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Mar 30 2021 17:42:06 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Mar 30 2021 18:28:49 GMT+0000 (Coordinated Universal Time) -->
   1. [小米新品发布会](https://www.zhihu.com/search?q=小米)
 1. [哈尔滨落马副局长拥百辆豪车](https://www.zhihu.com/search?q=哈尔滨李伟)
 1. [数万条偷拍视频被贩卖](https://www.zhihu.com/search?q=偷拍视频)
