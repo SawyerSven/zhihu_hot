@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Apr 03 2021 13:21:10 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Apr 03 2021 14:13:30 GMT+0000 (Coordinated Universal Time) -->
   1. [中山大学强制清算管理学院楼](https://www.zhihu.com/search?q=中山大学)
 1. [中国自闭症患者超 1000 万](https://www.zhihu.com/search?q=自闭症)
 1. [我国有约 2000 万名烈士](https://www.zhihu.com/search?q=致敬英烈)
@@ -14,5 +14,4 @@
 1. [「长赐号」搁浅系船长错误操作](https://www.zhihu.com/search?q=苏伊士运河)
 1. [深圳茶颜悦色开业排队 3 万号](https://www.zhihu.com/search?q=茶颜悦色)
 1. [教育部明确 3 个睡眠时间](https://www.zhihu.com/search?q=睡眠时间)
-1. [iG 2:3 不敌 RA](https://www.zhihu.com/search?q=ig)
   <!-- END -->
