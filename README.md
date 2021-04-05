@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Apr 05 2021 22:16:35 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Apr 05 2021 23:16:04 GMT+0000 (Coordinated Universal Time) -->
   1. [LG 宣布退出智能手机业务](https://www.zhihu.com/search?q=LG)
 1. [景区回应游客挤厕所过夜](https://www.zhihu.com/search?q=泰山)
 1. [地球上仅存 2 只北部白犀牛](https://www.zhihu.com/search?q=北部白犀牛)
