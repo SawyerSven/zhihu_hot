@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Apr 06 2021 14:14:48 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Apr 06 2021 15:15:10 GMT+0000 (Coordinated Universal Time) -->
   1. [一百多买包怀疑是假 LV](https://www.zhihu.com/search?q=假 lv )
 1. [朝鲜不参加东京奥运会](https://www.zhihu.com/search?q=东京奥运会)
 1. [云南现有确诊病例 66 例](https://www.zhihu.com/search?q=云南疫情)
