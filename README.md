@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Apr 11 2021 17:35:44 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Apr 11 2021 18:24:03 GMT+0000 (Coordinated Universal Time) -->
   1. [刺杀小说家解读](https://www.zhihu.com/search?q=刺杀小说家解读)
 1. [肯德基误把消毒水给女子饮用](https://www.zhihu.com/search?q=肯德基消毒水)
 1. [王子文吴永恩官宣恋情](https://www.zhihu.com/search?q=王子文吴永恩)
