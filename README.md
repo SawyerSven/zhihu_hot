@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Apr 11 2021 12:19:14 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Apr 11 2021 13:21:16 GMT+0000 (Coordinated Universal Time) -->
   1. [刺杀小说家解读](https://www.zhihu.com/search?q=刺杀小说家解读)
 1. [阿里巴巴集团被罚](https://www.zhihu.com/search?q=阿里巴巴 被罚)
 1. [王子文吴永恩官宣恋情](https://www.zhihu.com/search?q=王子文吴永恩)
@@ -14,5 +14,4 @@
 1. [货车司机服药身亡事件](https://www.zhihu.com/search?q=货车司机服药身亡)
 1. [元气森林更改包装标识](https://www.zhihu.com/search?q=元气森林改包装)
 1. [爱优腾等 70 家媒体联合声明](https://www.zhihu.com/search?q=爱优腾声明)
-1. [英国菲利普亲王去世](https://www.zhihu.com/search?q=菲利普亲王)
   <!-- END -->
