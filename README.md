@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Apr 11 2021 10:14:26 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Apr 11 2021 11:11:56 GMT+0000 (Coordinated Universal Time) -->
   1. [阿里巴巴集团被罚](https://www.zhihu.com/search?q=阿里巴巴 被罚)
 1. [刺杀小说家解读](https://www.zhihu.com/search?q=刺杀小说家解读)
 1. [王子文吴永恩官宣恋情](https://www.zhihu.com/search?q=王子文吴永恩)
