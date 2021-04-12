@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Apr 12 2021 12:20:25 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Apr 12 2021 13:23:34 GMT+0000 (Coordinated Universal Time) -->
   1. [郭美美售有毒减肥药案侦破](https://www.zhihu.com/search?q=郭美美)
 1. [拼多多发声明处罚极兔](https://www.zhihu.com/search?q=极兔)
 1. [海南省长回应三亚海胆事件](https://www.zhihu.com/search?q=三亚海胆)
