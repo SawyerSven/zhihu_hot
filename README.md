@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Apr 13 2021 10:15:17 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Apr 13 2021 11:13:28 GMT+0000 (Coordinated Universal Time) -->
   1. [日本正式决定将核污水排海](https://www.zhihu.com/search?q=日本核污水)
 1. [360 搜索被罚 200 万](https://www.zhihu.com/search?q=360搜索)
 1. [何炅父亲被强制执行](https://www.zhihu.com/search?q=何炅父亲)
@@ -14,5 +14,4 @@
 1. [张勇回应阿里被罚](https://www.zhihu.com/search?q=阿里巴巴被罚)
 1. [五一机票价格上涨](https://www.zhihu.com/search?q=五一机票)
 1. [汪小菲道歉](https://www.zhihu.com/search?q=汪小菲)
-1. [郭美美售有毒减肥药案侦破](https://www.zhihu.com/search?q=郭美美)
   <!-- END -->
