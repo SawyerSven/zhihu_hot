@@ -3,8 +3,9 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Apr 14 2021 00:41:06 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Apr 14 2021 01:59:52 GMT+0000 (Coordinated Universal Time) -->
   1. [日本正式决定将核污水排海](https://www.zhihu.com/search?q=日本核污水)
+1. [中国女足挺进奥运会](https://www.zhihu.com/search?q=中国女足)
 1. [360 搜索被罚 200 万](https://www.zhihu.com/search?q=360搜索)
 1. [何炅父亲被强制执行](https://www.zhihu.com/search?q=何炅父亲)
 1. [蚂蚁集团回应再次被约谈](https://www.zhihu.com/search?q=蚂蚁集团)
