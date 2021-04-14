@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Apr 14 2021 02:43:49 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Apr 14 2021 03:19:12 GMT+0000 (Coordinated Universal Time) -->
   1. [日本正式决定将核污水排海](https://www.zhihu.com/search?q=日本核污水)
 1. [中国女足挺进奥运会](https://www.zhihu.com/search?q=中国女足)
 1. [360 搜索被罚 200 万](https://www.zhihu.com/search?q=360搜索)
@@ -12,7 +12,7 @@
 1. [湖南电信网络崩了](https://www.zhihu.com/search?q=湖南电信网络)
 1. [海胆事件店家称将起诉消费者](https://www.zhihu.com/search?q=三亚海胆)
 1. [山东发现 156 座连片汉墓](https://www.zhihu.com/search?q=菏泽汉墓)
-1. [张勇回应阿里被罚](https://www.zhihu.com/search?q=阿里巴巴被罚)
 1. [汪小菲道歉](https://www.zhihu.com/search?q=汪小菲)
-1. [蚂蚁集团回应再次被约谈](https://www.zhihu.com/search?q=蚂蚁集团)
+1. [英伟达 CPU 问世](https://www.zhihu.com/search?q=英伟达)
+1. [张勇回应阿里被罚](https://www.zhihu.com/search?q=阿里巴巴被罚)
   <!-- END -->
