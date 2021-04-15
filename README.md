@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Apr 15 2021 14:14:10 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Apr 15 2021 15:14:20 GMT+0000 (Coordinated Universal Time) -->
   1. [项思醒瞒男友与富二代订婚](https://www.zhihu.com/search?q=项思醒)
 1. [核污水排海对我国的影响](https://www.zhihu.com/search?q=日本核污水)
 1. [任豪就不当发言道歉](https://www.zhihu.com/search?q=任豪)
@@ -14,5 +14,4 @@
 1. [张雨绮李柄熹恋情曝光](https://www.zhihu.com/search?q=张雨绮)
 1. [罗永浩再回应被强制执行](https://www.zhihu.com/search?q=罗永浩)
 1. [特利迦奥特曼正式公布](https://www.zhihu.com/search?q=特利迦奥特曼)
-1. [中国女足挺进奥运会](https://www.zhihu.com/search?q=中国女足)
   <!-- END -->
