@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Apr 17 2021 14:13:14 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Apr 17 2021 15:13:40 GMT+0000 (Coordinated Universal Time) -->
   1. [门店回应 17 元吃海底捞](https://www.zhihu.com/search?q=海底捞)
 1. [华为自动驾驶公开试乘](https://www.zhihu.com/search?q=华为自动驾驶)
 1. [原神 1.5 版本前瞻](https://www.zhihu.com/search?q=原神)
