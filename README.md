@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Apr 18 2021 10:14:14 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Apr 18 2021 11:11:49 GMT+0000 (Coordinated Universal Time) -->
   1. [4 月 18 日比特币暴跌](https://www.zhihu.com/search?q=比特币暴跌)
 1. [原神 1.5 版本前瞻](https://www.zhihu.com/search?q=原神)
 1. [华为公布自动驾驶道路体验视频](https://www.zhihu.com/search?q=华为 自动驾驶)
