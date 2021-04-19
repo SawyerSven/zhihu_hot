@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Apr 19 2021 13:22:43 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Apr 19 2021 14:14:13 GMT+0000 (Coordinated Universal Time) -->
   1. [项思醒事件最新进展](https://www.zhihu.com/search?q=项思醒)
 1. [狗狗币大涨](https://www.zhihu.com/search?q=狗狗币)
 1. [中科院走红博士回信网友](https://www.zhihu.com/search?q=博士论文致谢)
