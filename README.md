@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Apr 20 2021 10:14:32 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Apr 20 2021 11:11:58 GMT+0000 (Coordinated Universal Time) -->
   1. [特斯拉维权车主被行拘](https://www.zhihu.com/search?q=特斯拉车主维权)
 1. [鹿晗关晓彤被疑分手](https://www.zhihu.com/search?q=鹿晗关晓彤)
 1. [猪肉价格连续 12 周下降](https://www.zhihu.com/search?q=猪肉价格)
@@ -14,5 +14,4 @@
 1. [苹果春季发布会](https://www.zhihu.com/search?q=苹果发布会)
 1. [中科院走红博士回信网友](https://www.zhihu.com/search?q=博士论文致谢)
 1. [《尚气》发布首支预告](https://www.zhihu.com/search?q=尚气)
-1. [欧洲超级联赛正式成立](https://www.zhihu.com/search?q=欧超联赛)
   <!-- END -->
