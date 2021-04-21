@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Apr 21 2021 11:12:14 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Apr 21 2021 12:20:20 GMT+0000 (Coordinated Universal Time) -->
   1. [特斯拉深夜致歉](https://www.zhihu.com/search?q=特斯拉道歉)
 1. [美国警察跪杀黑人案宣判](https://www.zhihu.com/search?q=弗洛伊德 )
 1. [警方通报错换人生 28 年事件](https://www.zhihu.com/search?q=错换人生28年)
@@ -14,5 +14,4 @@
 1. [《尚气》发布首支预告](https://www.zhihu.com/search?q=尚气)
 1. [特斯拉维权车主被拘 5 日](https://www.zhihu.com/search?q=特斯拉车主维权)
 1. [可口可乐将涨价](https://www.zhihu.com/search?q=可口可乐)
-1. [狗狗币大涨](https://www.zhihu.com/search?q=狗狗币)
   <!-- END -->
