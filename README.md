@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Apr 21 2021 12:20:20 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Apr 21 2021 13:23:01 GMT+0000 (Coordinated Universal Time) -->
   1. [特斯拉深夜致歉](https://www.zhihu.com/search?q=特斯拉道歉)
 1. [美国警察跪杀黑人案宣判](https://www.zhihu.com/search?q=弗洛伊德 )
 1. [警方通报错换人生 28 年事件](https://www.zhihu.com/search?q=错换人生28年)
