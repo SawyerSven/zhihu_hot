@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Apr 22 2021 22:17:12 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Apr 22 2021 23:14:47 GMT+0000 (Coordinated Universal Time) -->
   1. [特斯拉称会提供行车数据](https://www.zhihu.com/search?q=特斯拉行车数据)
 1. [中国驻巴大使入住酒店爆炸](https://www.zhihu.com/search?q=巴基斯坦)
 1. [姚策生母欲抚养姚策儿子](https://www.zhihu.com/search?q=姚策)
