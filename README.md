@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Apr 24 2021 12:19:56 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Apr 24 2021 13:22:36 GMT+0000 (Coordinated Universal Time) -->
   1. [印度单日新增确诊超 34 万](https://www.zhihu.com/search?q=印度疫情)
 1. [黑龙江一野生东北虎进村](https://www.zhihu.com/search?q=野生东北虎)
 1. [江宏杰向法院提出离婚诉请](https://www.zhihu.com/search?q=福原爱江宏杰离婚)
