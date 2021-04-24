@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Apr 24 2021 21:12:39 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Apr 24 2021 22:17:03 GMT+0000 (Coordinated Universal Time) -->
   1. [印度单日新增确诊超 34 万](https://www.zhihu.com/search?q=印度疫情)
 1. [《创造营 2021》成团名单](https://www.zhihu.com/search?q=创造营成团名单)
 1. [黑龙江一野生东北虎进村](https://www.zhihu.com/search?q=野生东北虎)
