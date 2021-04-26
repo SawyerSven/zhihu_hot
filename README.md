@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Apr 26 2021 19:17:58 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Apr 26 2021 20:14:45 GMT+0000 (Coordinated Universal Time) -->
   1. [深房理涉嫌非法集资](https://www.zhihu.com/search?q=深房理)
 1. [晋江作者月逝水疑似轻生](https://www.zhihu.com/search?q=月逝水)
 1. [2021 软科中国大学排名](https://www.zhihu.com/search?q=2021软科)
