@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Apr 26 2021 21:13:13 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Apr 26 2021 22:17:13 GMT+0000 (Coordinated Universal Time) -->
   1. [深房理涉嫌非法集资](https://www.zhihu.com/search?q=深房理)
 1. [晋江作者月逝水疑似轻生](https://www.zhihu.com/search?q=月逝水)
 1. [2021 软科中国大学排名](https://www.zhihu.com/search?q=2021软科)
@@ -13,5 +13,6 @@
 1. [张伟丽卫冕失败](https://www.zhihu.com/search?q=张伟丽)
 1. [海贼王漫画最新话](https://www.zhihu.com/search?q=海贼王)
 1. [茶颜悦色诉茶颜观色一审判决](https://www.zhihu.com/search?q=茶颜悦色)
+1. [男子欲刺杀米哈游创始人被捕](https://www.zhihu.com/search?q=崩坏 3)
 1. [清华大学 110 周年校庆](https://www.zhihu.com/search?q=清华校庆)
   <!-- END -->
