@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Apr 27 2021 16:25:33 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Apr 27 2021 17:41:52 GMT+0000 (Coordinated Universal Time) -->
   1. [印度疫情失控](https://www.zhihu.com/search?q=印度疫情)
 1. [张恒语音聊天记录](https://www.zhihu.com/search?q=张恒郑爽)
 1. [警方辟谣盐城工学院事件](https://www.zhihu.com/search?q=盐城工学院)
