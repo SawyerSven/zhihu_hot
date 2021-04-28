@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Apr 28 2021 22:14:02 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Apr 28 2021 23:14:39 GMT+0000 (Coordinated Universal Time) -->
   1. [印度疫情失控](https://www.zhihu.com/search?q=印度疫情)
 1. [郑爽涉嫌偷逃税被调查](https://www.zhihu.com/search?q=郑爽被调查)
 1. [张若昀正式起诉父亲张健](https://www.zhihu.com/search?q=张若昀)
