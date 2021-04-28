@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Apr 28 2021 00:43:46 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Apr 28 2021 02:03:15 GMT+0000 (Coordinated Universal Time) -->
   1. [印度疫情失控](https://www.zhihu.com/search?q=印度疫情)
 1. [张恒语音聊天记录](https://www.zhihu.com/search?q=张恒郑爽)
 1. [李光洙将从 RM 下车](https://www.zhihu.com/search?q=李光洙下车)
