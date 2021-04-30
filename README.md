@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Apr 30 2021 00:36:25 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Apr 30 2021 02:02:58 GMT+0000 (Coordinated Universal Time) -->
   1. [印度疫情失控](https://www.zhihu.com/search?q=印度疫情)
 1. [我国人口继续保持增长](https://www.zhihu.com/search?q=人口普查)
 1. [郑爽涉嫌偷逃税被调查](https://www.zhihu.com/search?q=郑爽被调查)
