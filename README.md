@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Apr 30 2021 14:12:19 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Apr 30 2021 15:13:04 GMT+0000 (Coordinated Universal Time) -->
   1. [女子取快递被造谣案宣判](https://www.zhihu.com/search?q=女子取快递被造谣)
 1. [国际不打小孩日](https://www.zhihu.com/search?q=国际不打小孩日)
 1. [我国人口继续保持增长](https://www.zhihu.com/search?q=人口普查)
