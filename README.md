@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat May 01 2021 19:13:39 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat May 01 2021 20:12:30 GMT+0000 (Coordinated Universal Time) -->
   1. [女子取快递被造谣案宣判](https://www.zhihu.com/search?q=女子取快递被造谣)
 1. [国际不打小孩日](https://www.zhihu.com/search?q=国际不打小孩日)
 1. [《秘密访客》上映](https://www.zhihu.com/search?q=秘密访客)
