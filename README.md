@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun May 02 2021 19:13:11 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun May 02 2021 20:12:20 GMT+0000 (Coordinated Universal Time) -->
   1. [《秘密访客》上映](https://www.zhihu.com/search?q=秘密访客)
 1. [印度单日新增超 40 万病例](https://www.zhihu.com/search?q=印度疫情)
 1. [《灵笼》终章开播](https://www.zhihu.com/search?q=灵笼)
