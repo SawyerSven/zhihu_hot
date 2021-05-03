@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon May 03 2021 22:12:54 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon May 03 2021 23:10:25 GMT+0000 (Coordinated Universal Time) -->
   1. [《悬崖之上》](https://www.zhihu.com/search?q=悬崖之上)
 1. [印度单日新增超 40 万病例](https://www.zhihu.com/search?q=印度疫情)
 1. [张国立发大夜班工作状态](https://www.zhihu.com/search?q=张国立)
