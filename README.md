@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon May 03 2021 07:16:29 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon May 03 2021 08:14:07 GMT+0000 (Coordinated Universal Time) -->
   1. [《悬崖之上》](https://www.zhihu.com/search?q=悬崖之上)
 1. [《秘密访客》上映](https://www.zhihu.com/search?q=秘密访客)
 1. [印度单日新增超 40 万病例](https://www.zhihu.com/search?q=印度疫情)
@@ -14,5 +14,4 @@
 1. [广东力克辽宁再夺总冠军](https://www.zhihu.com/search?q=cba总决赛)
 1. [国王险胜湖人](https://www.zhihu.com/search?q=詹姆斯)
 1. [五一拥堵](https://www.zhihu.com/search?q=五一拥堵)
-1. [苹果或面临 1777 亿反垄断罚款](https://www.zhihu.com/search?q=苹果垄断)
   <!-- END -->
