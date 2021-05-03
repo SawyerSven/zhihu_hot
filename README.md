@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon May 03 2021 08:14:07 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon May 03 2021 09:12:47 GMT+0000 (Coordinated Universal Time) -->
   1. [《悬崖之上》](https://www.zhihu.com/search?q=悬崖之上)
 1. [《秘密访客》上映](https://www.zhihu.com/search?q=秘密访客)
 1. [印度单日新增超 40 万病例](https://www.zhihu.com/search?q=印度疫情)
