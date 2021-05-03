@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon May 03 2021 02:07:19 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon May 03 2021 03:19:43 GMT+0000 (Coordinated Universal Time) -->
   1. [《秘密访客》上映](https://www.zhihu.com/search?q=秘密访客)
 1. [印度单日新增超 40 万病例](https://www.zhihu.com/search?q=印度疫情)
 1. [《灵笼》终章开播](https://www.zhihu.com/search?q=灵笼)
@@ -14,5 +14,4 @@
 1. [《一人之下》电视剧爆主角](https://www.zhihu.com/search?q=一人之下漫画)
 1. [国王险胜湖人](https://www.zhihu.com/search?q=詹姆斯)
 1. [因残疾未通过教师资格证体检](https://www.zhihu.com/search?q=因残疾考教师资格证失败)
-1. [印度拒绝联合国物资驰援](https://www.zhihu.com/search?q=印度拒绝联合国物资驰援)
   <!-- END -->
