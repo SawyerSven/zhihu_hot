@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue May 04 2021 09:10:28 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue May 04 2021 10:10:56 GMT+0000 (Coordinated Universal Time) -->
   1. [《悬崖之上》影评](https://www.zhihu.com/search?q=悬崖之上)
 1. [五四青年节](https://www.zhihu.com/search?q=五四青年节)
 1. [山东健康码金色皮肤](https://www.zhihu.com/search?q=山东健康码)
