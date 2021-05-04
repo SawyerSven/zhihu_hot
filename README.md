@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue May 04 2021 15:11:11 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue May 04 2021 16:16:06 GMT+0000 (Coordinated Universal Time) -->
   1. [《悬崖之上》影评](https://www.zhihu.com/search?q=悬崖之上)
 1. [五四青年节](https://www.zhihu.com/search?q=五四青年节)
 1. [山东健康码金色皮肤](https://www.zhihu.com/search?q=山东健康码)
@@ -14,5 +14,4 @@
 1. [《青春有你 3 》牛奶打投式应援](https://www.zhihu.com/search?q=牛奶打投应援)
 1. [苹果或面临 1777 亿反垄断罚款](https://www.zhihu.com/search?q=苹果垄断)
 1. [2021 五四青年节晚会](https://www.zhihu.com/search?q=五四晚会)
-1. [漫画《同桌的你》](https://www.zhihu.com/search?q=漫画同桌的你)
   <!-- END -->
