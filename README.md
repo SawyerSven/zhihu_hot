@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed May 05 2021 11:08:57 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed May 05 2021 12:14:44 GMT+0000 (Coordinated Universal Time) -->
   1. [青你 3 录制被叫停](https://www.zhihu.com/search?q=青春有你3)
 1. [印度累积确诊突破 2000 万](https://www.zhihu.com/search?q=印度疫情)
 1. [立夏](https://www.zhihu.com/search?q=立夏)
@@ -14,6 +14,4 @@
 1. [警方通报的哥猝死仍被贴罚单](https://www.zhihu.com/search?q=的哥猝死)
 1. [2021 五四青年节晚会](https://www.zhihu.com/search?q=五四晚会)
 1. [漫画《同桌的你》](https://www.zhihu.com/search?q=漫画同桌的你)
-1. [扎克·施奈德版《正义联盟》](https://www.zhihu.com/search?q=正义联盟)
-1. [山东健康码金色皮肤](https://www.zhihu.com/search?q=山东健康码)
   <!-- END -->
