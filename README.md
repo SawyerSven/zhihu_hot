@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu May 06 2021 22:13:05 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu May 06 2021 23:10:24 GMT+0000 (Coordinated Universal Time) -->
   1. [印度累积确诊突破 2000 万](https://www.zhihu.com/search?q=印度疫情)
 1. [爱奇艺就倒奶事件道歉](https://www.zhihu.com/search?q=青春有你3)
 1. [三亚一女子阳台跳舞坠楼](https://www.zhihu.com/search?q=三亚女子坠楼)
