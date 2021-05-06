@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu May 06 2021 00:27:54 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu May 06 2021 01:57:12 GMT+0000 (Coordinated Universal Time) -->
   1. [印度累积确诊突破 2000 万](https://www.zhihu.com/search?q=印度疫情)
 1. [青你 3 录制被叫停](https://www.zhihu.com/search?q=青春有你3)
 1. [成都查处百余只宠物盲盒](https://www.zhihu.com/search?q=宠物盲盒)
