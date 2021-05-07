@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri May 07 2021 17:35:30 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri May 07 2021 18:18:18 GMT+0000 (Coordinated Universal Time) -->
   1. [警方回应三亚女子跳舞坠楼](https://www.zhihu.com/search?q=三亚女子坠楼)
 1. [《生化危机 8》解锁](https://www.zhihu.com/search?q=生化危机8)
 1. [爱奇艺就倒奶事件道歉](https://www.zhihu.com/search?q=青春有你3)
