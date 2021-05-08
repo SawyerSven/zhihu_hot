@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat May 08 2021 00:29:15 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat May 08 2021 02:00:06 GMT+0000 (Coordinated Universal Time) -->
   1. [警方回应三亚女子跳舞坠楼](https://www.zhihu.com/search?q=三亚女子坠楼)
 1. [《生化危机 8》解锁](https://www.zhihu.com/search?q=生化危机8)
 1. [爱奇艺就倒奶事件道歉](https://www.zhihu.com/search?q=青春有你3)
@@ -12,6 +12,6 @@
 1. [乃万音乐节发言引争议](https://www.zhihu.com/search?q=乃万音乐节)
 1. [美国将放弃新冠疫苗专利](https://www.zhihu.com/search?q=美国放弃疫苗专利)
 1. [SpaceX 星舰 SN15 成功着陆](https://www.zhihu.com/search?q=sn15)
-1. [尼泊尔珠峰大本营 17 人确诊新冠](https://www.zhihu.com/search?q=尼泊尔疫情)
 1. [显卡价格什么时候恢复正常](https://www.zhihu.com/search?q=显卡价格)
+1. [尼泊尔珠峰大本营 17 人确诊新冠](https://www.zhihu.com/search?q=尼泊尔疫情)
   <!-- END -->
