@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue May 11 2021 00:30:20 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue May 11 2021 02:04:14 GMT+0000 (Coordinated Universal Time) -->
   1. [成都 49 中一学生坠楼身亡](https://www.zhihu.com/search?q=成都49中)
 1. [数字人民币接入支付宝](https://www.zhihu.com/search?q=数字人民币)
 1. [美国宣布进入国家紧急状态](https://www.zhihu.com/search?q=美国国家紧急状态)
