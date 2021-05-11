@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue May 11 2021 09:10:30 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue May 11 2021 10:10:57 GMT+0000 (Coordinated Universal Time) -->
   1. [成都警方回应学生坠亡](https://www.zhihu.com/search?q=成都49中)
 1. [我国仍是世界第一人口大国](https://www.zhihu.com/search?q=七普数据)
 1. [技嘉就官网内容道歉](https://www.zhihu.com/search?q=技嘉)
@@ -14,5 +14,4 @@
 1. [我国 2020 年出生人口 1200 万](https://www.zhihu.com/search?q=生育率)
 1. [中国 60 岁及以上人口超 2.6 亿](https://www.zhihu.com/search?q=人口老龄化)
 1. [成都一电瓶车电梯内爆燃](https://www.zhihu.com/search?q=电瓶车爆炸)
-1. [武汉大暴雨](https://www.zhihu.com/search?q=武汉暴雨)
   <!-- END -->
