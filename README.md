@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed May 12 2021 13:24:57 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed May 12 2021 14:11:54 GMT+0000 (Coordinated Universal Time) -->
   1. [警方通报成都 49 中事件](https://www.zhihu.com/search?q=成都49中)
 1. [许嵩](https://www.zhihu.com/search?q=许嵩)
 1. [5・12 汶川大地震 13 周年](https://www.zhihu.com/search?q=汶川地震)
@@ -14,5 +14,4 @@
 1. [杭州杀妻案周五开庭](https://www.zhihu.com/search?q=杭州杀妻案)
 1. [原神新角色优菈](https://www.zhihu.com/search?q=原神)
 1. [苏州一快递站宠物盲盒发臭](https://www.zhihu.com/search?q=宠物盲盒)
-1. [我国 2020 年出生人口 1200 万](https://www.zhihu.com/search?q=生育率)
   <!-- END -->
