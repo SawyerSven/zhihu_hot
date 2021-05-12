@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed May 12 2021 18:26:07 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed May 12 2021 19:18:50 GMT+0000 (Coordinated Universal Time) -->
   1. [警方通报成都 49 中事件](https://www.zhihu.com/search?q=成都49中)
 1. [许嵩](https://www.zhihu.com/search?q=许嵩)
 1. [5·12 汶川大地震 13 周年](https://www.zhihu.com/search?q=汶川地震)
