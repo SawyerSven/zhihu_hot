@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat May 15 2021 18:24:27 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat May 15 2021 19:17:57 GMT+0000 (Coordinated Universal Time) -->
   1. [《灵笼》特别篇](https://www.zhihu.com/search?q=灵笼)
 1. [天问一号成功登陆火星](https://www.zhihu.com/search?q=天问一号)
 1. [剧本杀门店大量倒闭](https://www.zhihu.com/search?q=剧本杀)
