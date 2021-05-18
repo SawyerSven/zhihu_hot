@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue May 18 2021 12:18:06 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue May 18 2021 13:25:08 GMT+0000 (Coordinated Universal Time) -->
   1. [曹县县长回应走红](https://www.zhihu.com/search?q=曹县)
 1. [殷世航快手账号被封禁](https://www.zhihu.com/search?q=殷世航)
 1. [浙江一特斯拉撞倒两名交警](https://www.zhihu.com/search?q=特斯拉)
@@ -12,7 +12,6 @@
 1. [天鹅座万年前讯息被捕获](https://www.zhihu.com/search?q=天鹅座)
 1. [华强北赛格大楼发生晃动](https://www.zhihu.com/search?q=华强北)
 1. [《原神》新角色优菈演示](https://www.zhihu.com/search?q=原神)
-1. [马斯克欲提高狗狗币交易效率](https://www.zhihu.com/search?q=马斯克)
 1. [鸿蒙系统将支持第三方手机](https://www.zhihu.com/search?q=鸿蒙系统)
-1. [518 国际博物馆日](https://www.zhihu.com/search?q=博物馆日)
+1. [马斯克欲提高狗狗币交易效率](https://www.zhihu.com/search?q=马斯克)
   <!-- END -->
