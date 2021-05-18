@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue May 18 2021 17:42:57 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue May 18 2021 18:29:55 GMT+0000 (Coordinated Universal Time) -->
   1. [曹县县长回应走红](https://www.zhihu.com/search?q=曹县)
 1. [浙江一特斯拉撞倒两名交警](https://www.zhihu.com/search?q=特斯拉)
 1. [殷世航快手账号被封禁](https://www.zhihu.com/search?q=殷世航)
