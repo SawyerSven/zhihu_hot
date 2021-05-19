@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed May 19 2021 18:27:59 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed May 19 2021 19:20:22 GMT+0000 (Coordinated Universal Time) -->
   1. [曹县县长回应走红](https://www.zhihu.com/search?q=曹县)
 1. [新垣结衣和星野源结婚](https://www.zhihu.com/search?q=新垣结衣结婚)
 1. [深圳赛格大厦晃动原因查明](https://www.zhihu.com/search?q=赛格大厦)
