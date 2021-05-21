@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri May 21 2021 10:13:34 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri May 21 2021 11:10:39 GMT+0000 (Coordinated Universal Time) -->
   1. [520 文案](https://www.zhihu.com/search?q=520文案)
 1. [赛格大厦晃动原因初步查明](https://www.zhihu.com/search?q=赛格大厦)
 1. [虚拟货币全线暴跌](https://www.zhihu.com/search?q=币圈崩盘)
