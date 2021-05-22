@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat May 22 2021 13:24:39 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat May 22 2021 14:10:24 GMT+0000 (Coordinated Universal Time) -->
   1. [袁隆平逝世](https://www.zhihu.com/search?q=袁隆平)
 1. [吴孟超逝世](https://www.zhihu.com/search?q=吴孟超)
 1. [青海果洛州 7.4 级地震](https://www.zhihu.com/search?q=青海地震)
