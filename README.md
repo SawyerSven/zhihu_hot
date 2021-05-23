@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun May 23 2021 11:09:53 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun May 23 2021 12:17:29 GMT+0000 (Coordinated Universal Time) -->
   1. [袁隆平逝世](https://www.zhihu.com/search?q=袁隆平)
 1. [大连轿车撞人逃逸致 5 死](https://www.zhihu.com/search?q=大连车祸)
 1. [甘肃马拉松越野赛遭遇极端天气](https://www.zhihu.com/search?q=甘肃马拉松)
