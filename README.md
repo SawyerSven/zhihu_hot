@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon May 24 2021 12:19:09 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon May 24 2021 13:30:41 GMT+0000 (Coordinated Universal Time) -->
   1. [RNG 夺冠](https://www.zhihu.com/search?q=rng)
 1. [甘肃马拉松越野赛遭遇极端天气](https://www.zhihu.com/search?q=甘肃马拉松)
 1. [大连轿车撞人逃逸致 5 死](https://www.zhihu.com/search?q=大连车祸)
