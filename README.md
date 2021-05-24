@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon May 24 2021 10:16:38 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon May 24 2021 11:15:14 GMT+0000 (Coordinated Universal Time) -->
   1. [RNG 夺冠](https://www.zhihu.com/search?q=rng)
 1. [甘肃马拉松越野赛遭遇极端天气](https://www.zhihu.com/search?q=甘肃马拉松)
 1. [大连轿车撞人逃逸致 5 死](https://www.zhihu.com/search?q=大连车祸)
@@ -11,7 +11,7 @@
 1. [英雄联盟季中赛半决赛 DK 险胜 MAD](https://www.zhihu.com/search?q=英雄联盟)
 1. [深圳新增 2 名无症状感染者](https://www.zhihu.com/search?q=深圳疫情)
 1. [乌合麒麟新作缅怀袁隆平](https://www.zhihu.com/search?q=乌合麒麟新作)
-1. [独行侠113:103力克快船](https://www.zhihu.com/search?q=独行侠)
 1. [金融委打击比特币挖矿和交易行为](https://www.zhihu.com/search?q=金融委打击比特币)
+1. [独行侠113:103力克快船](https://www.zhihu.com/search?q=独行侠)
 1. [河北一中学发生砍人事件](https://www.zhihu.com/search?q=河北中学砍人)
   <!-- END -->
