@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue May 25 2021 10:21:00 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue May 25 2021 11:19:00 GMT+0000 (Coordinated Universal Time) -->
   1. [翟天临发文回复网友](https://www.zhihu.com/search?q=翟天临)
 1. [iOS14.6](https://www.zhihu.com/search?q=ios14.6)
 1. [RNG 夺冠](https://www.zhihu.com/search?q=rng)
