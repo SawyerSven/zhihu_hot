@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue May 25 2021 18:01:30 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue May 25 2021 19:31:27 GMT+0000 (Coordinated Universal Time) -->
   1. [翟天临发文回复网友](https://www.zhihu.com/search?q=翟天临)
 1. [iOS14.6](https://www.zhihu.com/search?q=ios14.6)
 1. [吴孟超灵堂放的是国际歌](https://www.zhihu.com/search?q=吴孟超)
