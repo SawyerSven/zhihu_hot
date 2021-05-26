@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed May 26 2021 20:26:58 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed May 26 2021 21:17:06 GMT+0000 (Coordinated Universal Time) -->
   1. [广州确诊病例密接者](https://www.zhihu.com/search?q=广州疫情)
 1. [雄安被确认为婚俗改革实验区](https://www.zhihu.com/search?q=雄安)
 1. [iOS14.6](https://www.zhihu.com/search?q=ios14.6)
