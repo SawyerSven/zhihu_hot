@@ -3,12 +3,12 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed May 26 2021 00:50:56 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed May 26 2021 02:50:27 GMT+0000 (Coordinated Universal Time) -->
   1. [iOS14.6](https://www.zhihu.com/search?q=ios14.6)
 1. [翟天临发文回复网友](https://www.zhihu.com/search?q=翟天临)
 1. [吴孟超灵堂放的是国际歌](https://www.zhihu.com/search?q=吴孟超)
-1. [RNG 夺冠](https://www.zhihu.com/search?q=rng)
 1. [鸿蒙手机要来了](https://www.zhihu.com/search?q=华为鸿蒙)
+1. [RNG 夺冠](https://www.zhihu.com/search?q=rng)
 1. [武汉公交车](https://www.zhihu.com/search?q=武汉公交车)
 1. [乌合麒麟新作缅怀袁隆平](https://www.zhihu.com/search?q=乌合麒麟新作)
 1. [金融委打击比特币挖矿和交易行为](https://www.zhihu.com/search?q=金融委打击比特币)
