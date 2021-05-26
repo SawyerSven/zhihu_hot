@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed May 26 2021 05:43:52 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed May 26 2021 06:33:23 GMT+0000 (Coordinated Universal Time) -->
   1. [iOS14.6](https://www.zhihu.com/search?q=ios14.6)
 1. [翟天临发文回复网友](https://www.zhihu.com/search?q=翟天临)
 1. [吴孟超灵堂放的是国际歌](https://www.zhihu.com/search?q=吴孟超)
@@ -14,6 +14,4 @@
 1. [四川一食品厂疑似发生有害气体中毒致 7 死](https://www.zhihu.com/search?q=四川食品厂)
 1. [2021 高考招生变化](https://www.zhihu.com/search?q=高考招生)
 1. [河北一中学发生砍人事件](https://www.zhihu.com/search?q=河北中学砍人)
-1. [RNG 夺冠](https://www.zhihu.com/search?q=rng)
-1. [乌合麒麟新作缅怀袁隆平](https://www.zhihu.com/search?q=乌合麒麟新作)
   <!-- END -->
