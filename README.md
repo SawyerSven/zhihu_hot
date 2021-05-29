@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat May 29 2021 09:46:25 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat May 29 2021 10:42:14 GMT+0000 (Coordinated Universal Time) -->
   1. [原神 1.6 版本 pv](https://www.zhihu.com/search?q=原神)
 1. [《一人之下》560 话](https://www.zhihu.com/search?q=一人之下)
 1. [云南大象组团压马路](https://www.zhihu.com/search?q=云南大象)
