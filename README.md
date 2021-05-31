@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon May 31 2021 19:36:38 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon May 31 2021 21:06:18 GMT+0000 (Coordinated Universal Time) -->
   1. [三孩生育政策来了](https://www.zhihu.com/search?q=三孩政策)
 1. [《摩尔庄园》手游上线](https://www.zhihu.com/search?q=摩尔庄园)
 1. [广东疫情](https://www.zhihu.com/search?q=广东疫情)
@@ -14,5 +14,4 @@
 1. [陈婷 提前完成三孩任务](https://www.zhihu.com/search?q=张艺谋太太)
 1. [声优石川由依结婚](https://www.zhihu.com/search?q=日本声优)
 1. [《哆啦A梦：伴我同行 2》](https://www.zhihu.com/search?q=哆啦A梦：伴我同行2)
-1. [南京警方通报伤人事件](https://www.zhihu.com/search?q=南京新街口)
   <!-- END -->
