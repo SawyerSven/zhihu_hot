@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Jun 02 2021 22:04:27 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Jun 02 2021 23:42:12 GMT+0000 (Coordinated Universal Time) -->
   1. [华为鸿蒙发布会](https://www.zhihu.com/search?q=华为)
 1. [广州疫情](https://www.zhihu.com/search?q=广州疫情)
 1. [台湾新冠确诊男子砍伤 3 名医护](https://www.zhihu.com/search?q=台湾疫情)
