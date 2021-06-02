@@ -3,16 +3,16 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Jun 02 2021 11:18:05 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Jun 02 2021 12:55:46 GMT+0000 (Coordinated Universal Time) -->
   1. [《摩尔庄园》手游上线](https://www.zhihu.com/search?q=摩尔庄园)
 1. [广州疫情](https://www.zhihu.com/search?q=广州疫情)
-1. [明日方舟「灯火序曲」](https://www.zhihu.com/search?q=明日方舟)
+1. [台湾新冠确诊男子砍伤 3 名医护](https://www.zhihu.com/search?q=台湾疫情)
 1. [建议延长产假至 3 年](https://www.zhihu.com/search?q=延长产假)
 1. [「海贼王」1015 话情报](https://www.zhihu.com/search?q=海贼王)
-1. [台湾新冠确诊男子砍伤 3 名医护](https://www.zhihu.com/search?q=台湾疫情)
 1. [姚非拉再爆漫画行业秘闻](https://www.zhihu.com/search?q=姚非拉)
+1. [明日方舟「灯火序曲」](https://www.zhihu.com/search?q=明日方舟)
 1. [中小学学制「633」改为「522」](https://www.zhihu.com/search?q=中小学)
 1. [高楼失火女子窗外避险不慎坠楼](https://www.zhihu.com/search?q=高楼失火)
-1. [黑龙江哈尔滨尚志市遭龙卷风](https://www.zhihu.com/search?q=黑龙江龙卷风)
 1. [全国高考报名](https://www.zhihu.com/search?q=高考报名人数)
+1. [黑龙江哈尔滨尚志市遭龙卷风](https://www.zhihu.com/search?q=黑龙江龙卷风)
   <!-- END -->
