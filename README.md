@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Jun 03 2021 09:53:52 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Jun 03 2021 10:51:30 GMT+0000 (Coordinated Universal Time) -->
   1. [吴亦凡](https://www.zhihu.com/search?q=吴亦凡)
 1. [摩尔庄园中欺骗小孩](https://www.zhihu.com/search?q=摩尔庄园)
 1. [华为鸿蒙发布会](https://www.zhihu.com/search?q=华为)
@@ -14,5 +14,4 @@
 1. [野象群进入昆明](https://www.zhihu.com/search?q=云南大象)
 1. [「海贼王」1015 话情报](https://www.zhihu.com/search?q=海贼王)
 1. [《致命女人》第二季](https://www.zhihu.com/search?q=致命女人)
-1. [姚非拉再爆漫画行业秘闻](https://www.zhihu.com/search?q=姚非拉)
   <!-- END -->
