@@ -3,12 +3,12 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Jun 03 2021 19:44:27 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Jun 03 2021 21:10:30 GMT+0000 (Coordinated Universal Time) -->
   1. [吴亦凡](https://www.zhihu.com/search?q=吴亦凡)
 1. [摩尔庄园中欺骗小孩](https://www.zhihu.com/search?q=摩尔庄园)
 1. [信小呆现状](https://www.zhihu.com/search?q=信小呆)
-1. [华为鸿蒙发布会](https://www.zhihu.com/search?q=华为)
 1. [广州疫情](https://www.zhihu.com/search?q=广州疫情)
+1. [华为鸿蒙发布会](https://www.zhihu.com/search?q=华为)
 1. [台湾新冠确诊男子砍伤 3 名医护](https://www.zhihu.com/search?q=台湾疫情)
 1. [我国新冠疫苗接种超 7 亿剂次](https://www.zhihu.com/search?q=新冠疫苗)
 1. [野象群进入昆明](https://www.zhihu.com/search?q=云南大象)
