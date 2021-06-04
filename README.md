@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Jun 04 2021 21:02:23 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Jun 04 2021 22:35:14 GMT+0000 (Coordinated Universal Time) -->
   1. [摩尔庄园中欺骗小孩](https://www.zhihu.com/search?q=摩尔庄园)
 1. [吴亦凡](https://www.zhihu.com/search?q=吴亦凡)
 1. [韦东奕](https://www.zhihu.com/search?q=韦东奕)
