@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Jun 05 2021 18:19:27 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Jun 05 2021 19:51:55 GMT+0000 (Coordinated Universal Time) -->
   1. [韦东奕](https://www.zhihu.com/search?q=韦东奕)
 1. [《摩尔庄园》新活动](https://www.zhihu.com/search?q=摩尔庄园)
 1. [科学松鼠会致歉](https://www.zhihu.com/search?q=科学松鼠会)
