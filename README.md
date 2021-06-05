@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Jun 05 2021 07:48:56 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Jun 05 2021 08:38:59 GMT+0000 (Coordinated Universal Time) -->
   1. [韦东奕](https://www.zhihu.com/search?q=韦东奕)
 1. [科学松鼠会致歉](https://www.zhihu.com/search?q=科学松鼠会)
 1. [兰新铁路一列车撞上工人致 9 死](https://www.zhihu.com/search?q=兰新铁路)
@@ -14,5 +14,4 @@
 1. [鸿蒙系统怎么申请？](https://www.zhihu.com/search?q=鸿蒙系统怎么申请)
 1. [向科学要答案](https://www.zhihu.com/search?q=向科学要答案)
 1. [第 24 届上海电影节](https://www.zhihu.com/search?q=上海电影节)
-1. [我国新冠疫苗接种超 7 亿剂次](https://www.zhihu.com/search?q=新冠疫苗)
   <!-- END -->
