@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Jun 06 2021 22:20:17 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Jun 06 2021 23:23:24 GMT+0000 (Coordinated Universal Time) -->
   1. [《摩尔庄园》新活动](https://www.zhihu.com/search?q=摩尔庄园)
 1. [网传苹果 App Store 下架人人视频](https://www.zhihu.com/search?q=人人视频)
 1. [土地出让金划归税务部门所有](https://www.zhihu.com/search?q=土地出让金)
