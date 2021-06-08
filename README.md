@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Jun 08 2021 09:13:52 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Jun 08 2021 10:15:31 GMT+0000 (Coordinated Universal Time) -->
   1. [2021 高考语文](https://www.zhihu.com/search?q=高考语文)
 1. [高考作文](https://www.zhihu.com/search?q=高考作文)
 1. [小猿搜题回应考生拍题作弊](https://www.zhihu.com/search?q=小猿搜题)
