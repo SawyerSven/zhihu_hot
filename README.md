@@ -3,10 +3,10 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Jun 09 2021 18:30:00 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Jun 09 2021 19:23:44 GMT+0000 (Coordinated Universal Time) -->
   1. [摩尔发行母公司股价暴涨](https://www.zhihu.com/search?q=摩尔庄园)
-1. [电影《秘密访客》](https://www.zhihu.com/search?q=秘密访客)
 1. [美剧《洛基》今日开播](https://www.zhihu.com/search?q=洛基)
+1. [电影《秘密访客》](https://www.zhihu.com/search?q=秘密访客)
 1. [高考结束了！](https://www.zhihu.com/search?q=高考结束)
 1. [《原神》1.6 版本更新](https://www.zhihu.com/search?q=原神)
 1. [河南专升本考试疑遭泄题](https://www.zhihu.com/search?q=河南专升本)
