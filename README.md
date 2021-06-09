@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Jun 09 2021 19:23:44 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Jun 09 2021 20:11:16 GMT+0000 (Coordinated Universal Time) -->
   1. [摩尔发行母公司股价暴涨](https://www.zhihu.com/search?q=摩尔庄园)
 1. [美剧《洛基》今日开播](https://www.zhihu.com/search?q=洛基)
 1. [电影《秘密访客》](https://www.zhihu.com/search?q=秘密访客)
