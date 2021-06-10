@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Jun 10 2021 12:16:24 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Jun 10 2021 13:27:03 GMT+0000 (Coordinated Universal Time) -->
   1. [美剧《洛基》今日开播](https://www.zhihu.com/search?q=洛基)
 1. [有用的知识增加了](https://www.zhihu.com/search?q=科普视频创作国际大赛)
 1. [《原神》1.6 版本更新](https://www.zhihu.com/search?q=原神)
