@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Jun 11 2021 22:10:30 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Jun 11 2021 23:10:32 GMT+0000 (Coordinated Universal Time) -->
   1. [英语四级](https://www.zhihu.com/search?q=英语四级)
 1. [向往的生活制作人独家回应](https://www.zhihu.com/search?q=向往的生活)
 1. [英语六级](https://www.zhihu.com/search?q=英语六级)
