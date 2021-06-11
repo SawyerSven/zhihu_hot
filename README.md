@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Jun 11 2021 00:33:53 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Jun 11 2021 02:01:49 GMT+0000 (Coordinated Universal Time) -->
   1. [美剧《洛基》今日开播](https://www.zhihu.com/search?q=洛基)
 1. [白玉兰获奖名单](https://www.zhihu.com/search?q=白玉兰)
 1. [三家银行宣布支持鸿蒙](https://www.zhihu.com/search?q=银行 鸿蒙)
