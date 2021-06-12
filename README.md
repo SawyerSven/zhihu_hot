@@ -3,10 +3,10 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Jun 12 2021 18:11:11 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Jun 12 2021 19:11:06 GMT+0000 (Coordinated Universal Time) -->
   1. [六级答案](https://www.zhihu.com/search?q=六级答案)
-1. [四级答案](https://www.zhihu.com/search?q=四级答案)
 1. [动画电影《你好世界》](https://www.zhihu.com/search?q=你好世界)
+1. [四级答案](https://www.zhihu.com/search?q=四级答案)
 1. [莫文蔚 杜嘉班纳](https://www.zhihu.com/search?q=莫文蔚)
 1. [向往的生活制作人独家回应](https://www.zhihu.com/search?q=向往的生活)
 1. [英语四六级](https://www.zhihu.com/search?q=四六级)
