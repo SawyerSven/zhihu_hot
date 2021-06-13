@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Jun 13 2021 06:12:15 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Jun 13 2021 07:12:57 GMT+0000 (Coordinated Universal Time) -->
   1. [埃里克森突然倒地](https://www.zhihu.com/search?q=埃里克森)
 1. [六级答案](https://www.zhihu.com/search?q=六级答案)
 1. [动画电影《你好世界》](https://www.zhihu.com/search?q=你好世界)
@@ -13,6 +13,6 @@
 1. [河南卫视「端午奇妙游」](https://www.zhihu.com/search?q=端午奇妙游)
 1. [海贼王 1016 话](https://www.zhihu.com/search?q=海贼王)
 1. [英语四六级](https://www.zhihu.com/search?q=四六级)
-1. [白银马拉松事件调查结果](https://www.zhihu.com/search?q=甘肃白银马拉松)
 1. [湖北十堰燃气爆炸](https://www.zhihu.com/search?q=十堰燃气爆炸)
+1. [白银马拉松事件调查结果](https://www.zhihu.com/search?q=甘肃白银马拉松)
   <!-- END -->
