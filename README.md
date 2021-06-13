@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Jun 13 2021 17:24:44 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Jun 13 2021 18:11:17 GMT+0000 (Coordinated Universal Time) -->
   1. [动画电影《你好世界》](https://www.zhihu.com/search?q=你好世界)
 1. [埃里克森突然倒地](https://www.zhihu.com/search?q=埃里克森)
 1. [《摩尔庄园》端午节](https://www.zhihu.com/search?q=摩尔庄园)
