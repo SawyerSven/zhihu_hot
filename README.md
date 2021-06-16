@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Jun 16 2021 09:10:23 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Jun 16 2021 10:11:44 GMT+0000 (Coordinated Universal Time) -->
   1. [《原神》获苹果设计奖](https://www.zhihu.com/search?q=原神)
 1. [二手平台现低价显卡](https://www.zhihu.com/search?q=显卡)
 1. [任天堂塞尔达怀旧掌机发布](https://www.zhihu.com/search?q=塞尔达)
