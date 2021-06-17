@@ -3,11 +3,12 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Jun 17 2021 14:09:46 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Jun 17 2021 15:11:57 GMT+0000 (Coordinated Universal Time) -->
   1. [神舟十二号发射！](https://www.zhihu.com/search?q=神舟十二号)
 1. [百岁翻译界泰斗许渊冲逝世](https://www.zhihu.com/search?q=许渊冲)
 1. [毛晓彤 1250 万片酬遭拖欠](https://www.zhihu.com/search?q=毛晓彤)
 1. [一加将成为 OPPO 子品牌](https://www.zhihu.com/search?q=一加)
+1. [王一博 理想照耀中国](https://www.zhihu.com/search?q=理想照耀中国)
 1. [任天堂塞尔达怀旧掌机发布](https://www.zhihu.com/search?q=塞尔达)
 1. [《眷思量》动画上线](https://www.zhihu.com/search?q=眷思量)
 1. [中国男足晋级 12 强赛](https://www.zhihu.com/search?q=中国男足)
