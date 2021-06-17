@@ -3,8 +3,9 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Jun 17 2021 00:32:04 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Jun 17 2021 01:55:51 GMT+0000 (Coordinated Universal Time) -->
   1. [《原神》获苹果设计奖](https://www.zhihu.com/search?q=原神)
+1. [神州十二号发射！](https://www.zhihu.com/search?q=神州十二号)
 1. [二手平台现低价显卡](https://www.zhihu.com/search?q=显卡)
 1. [毛晓彤 1250 万片酬遭拖欠](https://www.zhihu.com/search?q=毛晓彤)
 1. [任天堂塞尔达怀旧掌机发布](https://www.zhihu.com/search?q=塞尔达)
