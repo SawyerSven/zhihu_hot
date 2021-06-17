@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Jun 17 2021 22:10:46 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Jun 17 2021 23:10:39 GMT+0000 (Coordinated Universal Time) -->
   1. [百岁翻译界泰斗许渊冲逝世](https://www.zhihu.com/search?q=许渊冲)
 1. [毛晓彤 1250 万片酬遭拖欠](https://www.zhihu.com/search?q=毛晓彤)
 1. [一加将成为 OPPO 子品牌](https://www.zhihu.com/search?q=一加)
