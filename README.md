@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Jun 17 2021 10:11:33 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Jun 17 2021 11:08:31 GMT+0000 (Coordinated Universal Time) -->
   1. [神舟十二号发射！](https://www.zhihu.com/search?q=神舟十二号)
 1. [百岁翻译界泰斗许渊冲逝世](https://www.zhihu.com/search?q=许渊冲)
 1. [毛晓彤 1250 万片酬遭拖欠](https://www.zhihu.com/search?q=毛晓彤)
@@ -14,5 +14,4 @@
 1. [电影《渔业阴谋》](https://www.zhihu.com/search?q=渔业阴谋)
 1. [法国队 1:0 小胜德国队](https://www.zhihu.com/search?q=德法大战)
 1. [任天堂 E3 直面会](https://www.zhihu.com/search?q=E3)
-1. [端午档电影无一票房破亿](https://www.zhihu.com/search?q=端午档票房)
   <!-- END -->
