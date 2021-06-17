@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Jun 17 2021 12:15:17 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Jun 17 2021 13:22:45 GMT+0000 (Coordinated Universal Time) -->
   1. [神舟十二号发射！](https://www.zhihu.com/search?q=神舟十二号)
 1. [百岁翻译界泰斗许渊冲逝世](https://www.zhihu.com/search?q=许渊冲)
 1. [毛晓彤 1250 万片酬遭拖欠](https://www.zhihu.com/search?q=毛晓彤)
