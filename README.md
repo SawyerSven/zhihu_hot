@@ -3,8 +3,9 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Jun 18 2021 07:14:15 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Jun 18 2021 08:11:48 GMT+0000 (Coordinated Universal Time) -->
   1. [百岁翻译界泰斗许渊冲逝世](https://www.zhihu.com/search?q=许渊冲)
+1. [蜜雪冰城主题曲](https://www.zhihu.com/search?q=蜜雪冰城)
 1. [一加将成为 OPPO 子品牌](https://www.zhihu.com/search?q=一加)
 1. [一人之下 564 话](https://www.zhihu.com/search?q=一人之下)
 1. [小米回应手机异常发热](https://www.zhihu.com/search?q=小米)
