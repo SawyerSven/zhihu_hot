@@ -3,10 +3,11 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Jun 23 2021 05:08:25 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Jun 23 2021 06:11:43 GMT+0000 (Coordinated Universal Time) -->
   1. [首汽约车跳车事件调查结果公布](https://www.zhihu.com/search?q=首汽约车)
 1. [孙杨被禁赛 4 年 3 个月](https://www.zhihu.com/search?q=孙杨)
 1. [高考分数线陆续公布](https://www.zhihu.com/search?q=高考分数线)
+1. [原神新角色枫原万叶 pv](https://www.zhihu.com/search?q=原神)
 1. [丁磊称中国学生缺乏独立思考](https://www.zhihu.com/search?q=丁磊)
 1. [徐真真二级烧伤](https://www.zhihu.com/search?q=徐真真)
 1. [三只松鼠前高管盗卖废纸箱获刑](https://www.zhihu.com/search?q=三只松鼠)
