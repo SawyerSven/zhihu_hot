@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Jun 23 2021 18:11:20 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Jun 23 2021 19:07:28 GMT+0000 (Coordinated Universal Time) -->
   1. [高考分数线陆续公布](https://www.zhihu.com/search?q=高考分数线)
 1. [孙杨被禁赛 4 年 3 个月](https://www.zhihu.com/search?q=孙杨)
 1. [蒋勇律师去世](https://www.zhihu.com/search?q=蒋勇)
