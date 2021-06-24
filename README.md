@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Jun 24 2021 17:17:54 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Jun 24 2021 18:12:46 GMT+0000 (Coordinated Universal Time) -->
   1. [高考分数线陆续公布](https://www.zhihu.com/search?q=高考分数线)
 1. [《光与夜之恋》上线](https://www.zhihu.com/search?q=光与夜之恋)
 1. [蒋勇律师去世](https://www.zhihu.com/search?q=蒋勇)
