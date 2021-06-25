@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Jun 25 2021 02:30:23 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Jun 25 2021 03:11:20 GMT+0000 (Coordinated Universal Time) -->
   1. [高考分数线陆续公布](https://www.zhihu.com/search?q=高考分数线)
 1. [Windows 11 系统发布](https://www.zhihu.com/search?q=windows 11)
 1. [《光与夜之恋》上线](https://www.zhihu.com/search?q=光与夜之恋)
