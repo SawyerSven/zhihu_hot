@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Jun 26 2021 18:11:44 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Jun 26 2021 19:08:00 GMT+0000 (Coordinated Universal Time) -->
   1. [乌合麒麟道歉](https://www.zhihu.com/search?q=乌合麒麟)
 1. [马嘉祺高考成绩](https://www.zhihu.com/search?q=马嘉祺高考)
 1. [Windows 11 系统发布](https://www.zhihu.com/search?q=windows 11)
