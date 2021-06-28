@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Jun 28 2021 17:44:24 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Jun 28 2021 18:21:54 GMT+0000 (Coordinated Universal Time) -->
   1. [《电锯人》发布动画 PV  ](https://www.zhihu.com/search?q=电锯人)
 1. [原神新角色演示 PV](https://www.zhihu.com/search?q=原神)
 1. [荣耀 50 首销 1 分钟破 5 亿](https://www.zhihu.com/search?q=荣耀50)
