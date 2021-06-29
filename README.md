@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Jun 29 2021 10:11:00 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Jun 29 2021 11:08:20 GMT+0000 (Coordinated Universal Time) -->
   1. [张桂梅获「七一勋章」](https://www.zhihu.com/search?q=张桂梅)
 1. [荣耀 50 首销 1 分钟破 5 亿](https://www.zhihu.com/search?q=荣耀50)
 1. [《电锯人》发布动画 PV  ](https://www.zhihu.com/search?q=电锯人)
