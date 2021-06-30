@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Jun 30 2021 17:19:59 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Jun 30 2021 18:12:30 GMT+0000 (Coordinated Universal Time) -->
   1. [张桂梅获「七一勋章」](https://www.zhihu.com/search?q=张桂梅)
 1. [长沙橘洲建党百年烟花秀](https://www.zhihu.com/search?q=长沙烟花秀)
 1. [航天员在太空祝党生日快乐](https://www.zhihu.com/search?q=中国空间站)
