@@ -3,10 +3,11 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Jun 30 2021 02:30:31 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Jun 30 2021 03:11:28 GMT+0000 (Coordinated Universal Time) -->
   1. [张桂梅获「七一勋章」](https://www.zhihu.com/search?q=张桂梅)
 1. [荣耀 50 首销 1 分钟破 5 亿](https://www.zhihu.com/search?q=荣耀50)
 1. [我国人均国民收入超 1 万美元](https://www.zhihu.com/search?q=人均国民收入)
+1. [《奇蛋物语》特别篇上映](https://www.zhihu.com/search?q=奇蛋物语)
 1. [姆巴佩失点法国无缘八强](https://www.zhihu.com/search?q=法国队)
 1. [高通骁龙 888 Plus 发布](https://www.zhihu.com/search?q=骁龙888plus)
 1. [英格兰 2:0 淘汰德国](https://www.zhihu.com/search?q=英格兰队)
