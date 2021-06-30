@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Jun 30 2021 05:08:39 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Jun 30 2021 06:12:54 GMT+0000 (Coordinated Universal Time) -->
   1. [张桂梅获「七一勋章」](https://www.zhihu.com/search?q=张桂梅)
 1. [我国人均国民收入超 1 万美元](https://www.zhihu.com/search?q=人均国民收入)
 1. [《奇蛋物语》特别篇上映](https://www.zhihu.com/search?q=奇蛋物语)
