@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Jun 30 2021 12:15:36 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Jun 30 2021 13:17:34 GMT+0000 (Coordinated Universal Time) -->
   1. [张桂梅获「七一勋章」](https://www.zhihu.com/search?q=张桂梅)
 1. [《奇蛋物语》特别篇上映](https://www.zhihu.com/search?q=奇蛋物语)
 1. [《一拳超人》192 话](https://www.zhihu.com/search?q=一拳超人)
