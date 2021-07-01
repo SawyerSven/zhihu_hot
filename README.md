@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Jul 01 2021 04:12:50 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Jul 01 2021 05:09:02 GMT+0000 (Coordinated Universal Time) -->
   1. [建党 100 周年庆祝大会](https://www.zhihu.com/search?q=庆祝大会)
 1. [歼-10 歼-20 亮相庆祝大会](https://www.zhihu.com/search?q=歼20)
 1. [张桂梅获「七一勋章」](https://www.zhihu.com/search?q=张桂梅)
