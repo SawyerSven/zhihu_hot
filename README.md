@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Jul 01 2021 07:09:26 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Jul 01 2021 08:11:28 GMT+0000 (Coordinated Universal Time) -->
   1. [第一个百年奋斗目标实现](https://www.zhihu.com/search?q=百年奋斗目标)
 1. [中国空间站发来生日祝福](https://www.zhihu.com/search?q=空间站)
 1. [全军官兵在战位上献礼七一](https://www.zhihu.com/search?q=部队官兵)
@@ -14,7 +14,4 @@
 1. [全国新冠疫苗接种剂次超 12 亿](https://www.zhihu.com/search?q=新冠疫苗接种)
 1. [长沙橘洲建党百年烟花秀](https://www.zhihu.com/search?q=长沙烟花秀)
 1. [7 月这些新规开始实施](https://www.zhihu.com/search?q=新规)
-1. [张桂梅获「七一勋章」](https://www.zhihu.com/search?q=张桂梅)
-1. [华为公开「唇动解锁」新专利](https://www.zhihu.com/search?q=唇动解锁)
-1. [我国人均国民收入超 1 万美元](https://www.zhihu.com/search?q=人均国民收入)
   <!-- END -->
