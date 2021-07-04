@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Jul 04 2021 19:08:02 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Jul 04 2021 20:09:41 GMT+0000 (Coordinated Universal Time) -->
   1. [中国空间站航天员首次出舱活动](https://www.zhihu.com/search?q=首次出舱)
 1. [滴滴出行 APP 下架](https://www.zhihu.com/search?q=滴滴下架)
 1. [感染幽门螺杆菌或诱发胃癌](https://www.zhihu.com/search?q=幽门螺杆菌)
