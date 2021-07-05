@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Jul 05 2021 16:15:18 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Jul 05 2021 17:16:32 GMT+0000 (Coordinated Universal Time) -->
   1. [江苏女生中考 8 门满分](https://www.zhihu.com/search?q=中考)
 1. [滴滴出行 APP 下架](https://www.zhihu.com/search?q=滴滴下架)
 1. [林生斌再婚得女](https://www.zhihu.com/search?q=林生斌)
