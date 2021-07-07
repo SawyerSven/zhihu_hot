@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Jul 07 2021 00:34:16 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Jul 07 2021 01:53:55 GMT+0000 (Coordinated Universal Time) -->
   1. [中国移动成立芯片公司](https://www.zhihu.com/search?q=中国移动)
 1. [小米再发 1.2 亿股重奖技术人才](https://www.zhihu.com/search?q=小米)
 1. [林生斌再婚得女](https://www.zhihu.com/search?q=林生斌)
