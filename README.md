@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Jul 07 2021 13:17:25 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Jul 07 2021 14:10:24 GMT+0000 (Coordinated Universal Time) -->
   1. [七七事变 84 周年](https://www.zhihu.com/search?q=七七事变)
 1. [中国移动成立芯片公司](https://www.zhihu.com/search?q=中国移动)
 1. [Switch 新机型公布](https://www.zhihu.com/search?q=switch)
