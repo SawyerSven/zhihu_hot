@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Jul 08 2021 20:10:28 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Jul 08 2021 21:09:18 GMT+0000 (Coordinated Universal Time) -->
   1. [林生斌回应火灾赔偿金去向](https://www.zhihu.com/search?q=林生斌)
 1. [滴滴 App 下架](https://www.zhihu.com/search?q=滴滴下架)
 1. [福原爱江宏杰离婚](https://www.zhihu.com/search?q=福原爱)
