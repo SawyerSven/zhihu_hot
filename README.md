@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Jul 13 2021 12:17:10 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Jul 13 2021 13:18:29 GMT+0000 (Coordinated Universal Time) -->
   1. [《原神》成辩论世界杯辩题](https://www.zhihu.com/search?q=原神)
 1. [《失孤》原型儿子找到](https://www.zhihu.com/search?q=失孤)
 1. [部分地区不打疫苗影响出行](https://www.zhihu.com/search?q=疫苗)
