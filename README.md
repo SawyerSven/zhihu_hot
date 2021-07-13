@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Jul 13 2021 22:09:56 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Jul 13 2021 23:10:13 GMT+0000 (Coordinated Universal Time) -->
   1. [B 站崩了](https://www.zhihu.com/search?q=b站崩了)
 1. [A 站崩了](https://www.zhihu.com/search?q=A站崩了)
 1. [晋江崩了](https://www.zhihu.com/search?q=晋江崩了)
