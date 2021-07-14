@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Jul 14 2021 00:31:27 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Jul 14 2021 01:50:24 GMT+0000 (Coordinated Universal Time) -->
   1. [B 站崩了](https://www.zhihu.com/search?q=b站崩了)
 1. [A 站崩了](https://www.zhihu.com/search?q=A站崩了)
 1. [晋江崩了](https://www.zhihu.com/search?q=晋江崩了)
@@ -12,6 +12,6 @@
 1. [《原神》成辩论世界杯辩题](https://www.zhihu.com/search?q=原神)
 1. [《失孤》原型儿子找到](https://www.zhihu.com/search?q=失孤)
 1. [我的世界创始人称游戏已死](https://www.zhihu.com/search?q=我的世界)
-1. [京东平均年薪涨至 16 薪](https://www.zhihu.com/search?q=京东)
 1. [江苏苏州酒店坍塌](https://www.zhihu.com/search?q=酒店坍塌)
+1. [京东平均年薪涨至 16 薪](https://www.zhihu.com/search?q=京东)
   <!-- END -->
