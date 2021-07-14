@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Jul 14 2021 16:15:35 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Jul 14 2021 17:17:24 GMT+0000 (Coordinated Universal Time) -->
   1. [失孤原型决定留养父母身边](https://www.zhihu.com/search?q=失孤原型)
 1. [中科院 引雷试验](https://www.zhihu.com/search?q=引雷试验)
 1. [新冠疫苗接种超 14 亿剂次](https://www.zhihu.com/search?q=新冠疫苗)
@@ -14,5 +14,4 @@
 1. [海贼王 1019 话情报](https://www.zhihu.com/search?q=海贼王)
 1. [东奥乒乓球赛不许吹球](https://www.zhihu.com/search?q=乒乓球)
 1. [《眷思量》第六集更新](https://www.zhihu.com/search?q=眷思量)
-1. [A 站崩了](https://www.zhihu.com/search?q=A站崩了)
   <!-- END -->
