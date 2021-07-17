@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Jul 17 2021 07:09:15 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Jul 17 2021 08:11:22 GMT+0000 (Coordinated Universal Time) -->
   1. [华晨宇整容](https://www.zhihu.com/search?q=华晨宇)
 1. [北京首次发布蚊虫叮咬指数](https://www.zhihu.com/search?q=蚊虫叮咬指数)
 1. [金毛 Siri 因宠物托运致死](https://www.zhihu.com/search?q=金毛siri)
