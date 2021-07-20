@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Jul 20 2021 08:11:53 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Jul 20 2021 09:10:32 GMT+0000 (Coordinated Universal Time) -->
   1. [原神神里绫华角色演示](https://www.zhihu.com/search?q=原神)
 1. [电锯人作者新作《蓦然回首》](https://www.zhihu.com/search?q=藤本树)
 1. [吴亦凡工作室发声明](https://www.zhihu.com/search?q=吴亦凡)
@@ -14,5 +14,4 @@
 1. [中小学不得开设小卖部](https://www.zhihu.com/search?q=小卖部)
 1. [恒大系股价暴跌](https://www.zhihu.com/search?q=恒大股票)
 1. [贝索斯飞行直播](https://www.zhihu.com/search?q=贝索斯)
-1. [第 74 届戛纳电影节](https://www.zhihu.com/search?q=戛纳电影节)
   <!-- END -->
