@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Jul 22 2021 01:58:32 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Jul 22 2021 02:31:03 GMT+0000 (Coordinated Universal Time) -->
   1. [河南暴雨救援电话](https://www.zhihu.com/search?q=暴雨救援)
 1. [南京发现 17 例新冠阳性](https://www.zhihu.com/search?q=南京)
 1. [郑州地铁受灾严重](https://www.zhihu.com/search?q=郑州地铁)
