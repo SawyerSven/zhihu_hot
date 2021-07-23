@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Jul 23 2021 20:10:30 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Jul 23 2021 21:09:42 GMT+0000 (Coordinated Universal Time) -->
   1. [东京奥运会开幕式](https://www.zhihu.com/search?q=东京奥运会开幕式)
 1. [奥运会上的神颜](https://www.zhihu.com/search?q=运动员颜值)
 1. [河南新乡暴雨](https://www.zhihu.com/search?q=河南新乡)
