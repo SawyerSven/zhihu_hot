@@ -3,10 +3,11 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Jul 24 2021 04:13:00 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Jul 24 2021 05:08:37 GMT+0000 (Coordinated Universal Time) -->
   1. [中国拿下东京奥运首金](https://www.zhihu.com/search?q=女子气步枪决赛)
-1. [拜拜啦人间事件](https://www.zhihu.com/search?q=拜拜啦人间录音)
+1. [腾讯被责令解除音乐独家版权](https://www.zhihu.com/search?q=腾讯音乐版权)
 1. [东京奥运会时间表](https://www.zhihu.com/search?q=东京奥运会时间表)
+1. [拜拜啦人间事件](https://www.zhihu.com/search?q=拜拜啦人间录音)
 1. [东京奥运会开幕式](https://www.zhihu.com/search?q=东京奥运会开幕式)
 1. [江苏新增 12 例本土确诊](https://www.zhihu.com/search?q=南京疫情)
 1. [武大教授周玄毅被通报处分](https://www.zhihu.com/search?q=周玄毅)
