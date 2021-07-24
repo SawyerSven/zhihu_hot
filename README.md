@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Jul 24 2021 06:12:32 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Jul 24 2021 07:09:10 GMT+0000 (Coordinated Universal Time) -->
   1. [中国拿下东京奥运首金](https://www.zhihu.com/search?q=女子气步枪决赛)
 1. [腾讯被责令解除音乐独家版权](https://www.zhihu.com/search?q=腾讯音乐版权)
 1. [东京奥运会时间表](https://www.zhihu.com/search?q=东京奥运会时间表)
@@ -14,5 +14,4 @@
 1. [武大教授周玄毅被通报处分](https://www.zhihu.com/search?q=周玄毅)
 1. [原神×索尼联动新角色](https://www.zhihu.com/search?q=原神)
 1. [北京奥运会开幕式什么水平](https://www.zhihu.com/search?q=北京奥运会开幕式)
-1. [河南新乡暴雨](https://www.zhihu.com/search?q=河南新乡)
   <!-- END -->
