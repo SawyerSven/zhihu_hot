@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Jul 26 2021 09:15:40 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Jul 26 2021 10:25:30 GMT+0000 (Coordinated Universal Time) -->
   1. [江苏新增确诊 39 例](https://www.zhihu.com/search?q=江苏疫情)
 1. [东京奥运会女排首场 0:3 失利](https://www.zhihu.com/search?q=女排)
 1. [鸿星尔克「野性消费」](https://www.zhihu.com/search?q=鸿星尔克野性消费)
