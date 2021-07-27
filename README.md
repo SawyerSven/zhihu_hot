@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Jul 27 2021 19:08:19 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Jul 27 2021 20:08:54 GMT+0000 (Coordinated Universal Time) -->
   1. [东京奥运会女排 0:3 两连败](https://www.zhihu.com/search?q=女排)
 1. [南京疫情确定为德尔塔毒株](https://www.zhihu.com/search?q=江苏疫情)
 1. [乒乓球混双决赛](https://www.zhihu.com/search?q=乒乓球)
