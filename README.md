@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Jul 27 2021 01:59:17 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Jul 27 2021 02:31:40 GMT+0000 (Coordinated Universal Time) -->
   1. [乒乓球混双决赛](https://www.zhihu.com/search?q=乒乓球)
 1. [江苏新增确诊 39 例](https://www.zhihu.com/search?q=江苏疫情)
 1. [河南新一轮降雨](https://www.zhihu.com/search?q=河南暴雨)
