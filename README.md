@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Jul 28 2021 20:10:09 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Jul 28 2021 21:09:50 GMT+0000 (Coordinated Universal Time) -->
   1. [谷歌奥运会定制小游戏](https://www.zhihu.com/search?q=涂鸦冠军岛运动会)
 1. [黑神话悟空策划离职发文](https://www.zhihu.com/search?q=黑神话：悟空)
 1. [你是我的荣耀热播](https://www.zhihu.com/search?q=你是我的荣耀)
