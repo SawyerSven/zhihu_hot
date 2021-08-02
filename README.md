@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Aug 02 2021 01:54:21 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Aug 02 2021 02:23:43 GMT+0000 (Coordinated Universal Time) -->
   1. [吴亦凡涉嫌强奸罪被拘留](https://www.zhihu.com/search?q=吴亦凡)
 1. [中国女排无缘奥运八强](https://www.zhihu.com/search?q=中国女排)
 1. [男子百米苏炳添获得第 6](https://www.zhihu.com/search?q=苏炳添)
