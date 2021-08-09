@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Aug 09 2021 21:09:27 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Aug 09 2021 22:09:28 GMT+0000 (Coordinated Universal Time) -->
   1. [阿里支持员工拒绝陪酒 ](https://www.zhihu.com/search?q=阿里)
 1. [海贼王 1021 话](https://www.zhihu.com/search?q=海贼王)
 1. [拜登下令空袭塔利班](https://www.zhihu.com/search?q=塔利班)
