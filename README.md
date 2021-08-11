@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Aug 11 2021 01:51:18 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Aug 11 2021 02:20:54 GMT+0000 (Coordinated Universal Time) -->
   1. [孙红雷、张艺兴《扫黑风暴》](https://www.zhihu.com/search?q=扫黑风暴)
 1. [小米 MIX4 新品](https://www.zhihu.com/search?q=小米mix4)
 1. [中方决定召回驻立陶宛大使](https://www.zhihu.com/search?q=立陶宛)
@@ -13,5 +13,6 @@
 1. [脱口秀大会快乐地狱](https://www.zhihu.com/search?q=脱口秀大会4)
 1. [雷军年度演讲](https://www.zhihu.com/search?q=雷军)
 1. [鸿蒙用户已超 5000 万](https://www.zhihu.com/search?q=鸿蒙)
+1. [黑客组织攻击国内游戏](https://www.zhihu.com/search?q=弈剑行)
 1. [谢大脚扮演者于月仙去世](https://www.zhihu.com/search?q=谢大脚)
   <!-- END -->
