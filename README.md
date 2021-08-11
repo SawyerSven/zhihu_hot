@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Aug 11 2021 21:09:52 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Aug 11 2021 22:10:24 GMT+0000 (Coordinated Universal Time) -->
   1. [孙红雷、张艺兴《扫黑风暴》](https://www.zhihu.com/search?q=扫黑风暴)
 1. [男子冒充秦皇岛落水女孩哥哥](https://www.zhihu.com/search?q=秦皇岛落水女孩哥哥)
 1. [苏炳添成小米品牌代言人](https://www.zhihu.com/search?q=苏炳添 小米)
