@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Aug 15 2021 21:09:20 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Aug 15 2021 22:10:00 GMT+0000 (Coordinated Universal Time) -->
   1. [七夕节](https://www.zhihu.com/search?q=七夕)
 1. [张哲瀚被中演协从业抵制](https://www.zhihu.com/search?q=张哲瀚)
 1. [塔利班已攻下半个阿富汗](https://www.zhihu.com/search?q=塔利班)
