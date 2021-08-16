@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Aug 16 2021 19:08:27 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Aug 16 2021 20:10:29 GMT+0000 (Coordinated Universal Time) -->
   1. [吴亦凡被批捕](https://www.zhihu.com/search?q=吴亦凡)
 1. [张哲瀚被中演协从业抵制](https://www.zhihu.com/search?q=张哲瀚)
 1. [塔利班称已控制总统府](https://www.zhihu.com/search?q=阿富汗)
