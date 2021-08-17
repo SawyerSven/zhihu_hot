@@ -3,9 +3,17 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Aug 17 2021 15:11:14 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Aug 17 2021 16:15:26 GMT+0000 (Coordinated Universal Time) -->
   1. [吴亦凡被批捕](https://www.zhihu.com/search?q=吴亦凡)
 1. [阿富汗首都降下国旗](https://www.zhihu.com/search?q=阿富汗)
+1. [海地地震死亡人数至 1297 人](https://www.zhihu.com/search?q=海地地震)
+1. [安徽女孩厕所内遭霸凌](https://www.zhihu.com/search?q=校园暴力)
+1. [某手游天价时装 24.8 万](https://www.zhihu.com/search?q=一梦江湖)
+1. [海淀两人暴雨驾车遇难](https://www.zhihu.com/search?q=驾车涉水)
+1. [iPhone 13 价格或与 12 一致](https://www.zhihu.com/search?q=iPhone 13 )
+1. [小米汽车总部将落户北京](https://www.zhihu.com/search?q=小米汽车)
+1. [小米 MIX 4 首卖秒售罄](https://www.zhihu.com/search?q=小米mix4)
+1. [芒果 TV 艺人艺德承诺书](https://www.zhihu.com/search?q=艺德承诺书)
 1. [DCM 董事总经理魏萌去世](https://www.zhihu.com/search?q=魏萌)
 1. [剧本杀抄袭盗版泛滥](https://www.zhihu.com/search?q=剧本杀)
 1. [英特尔发布独立显卡](https://www.zhihu.com/search?q=英特尔锐炫)
@@ -13,11 +21,4 @@
 1. [商丘一家四代 11 人确诊](https://www.zhihu.com/search?q=商丘疫情)
 1. [十年校园欺凌做成桌游](https://www.zhihu.com/search?q=桌游)
 1. [字体设计师尚巍去世](https://www.zhihu.com/search?q=尚巍)
-1. [小米 MIX 4 首卖秒售罄](https://www.zhihu.com/search?q=小米mix4)
-1. [某手游天价时装 24.8 万](https://www.zhihu.com/search?q=一梦江湖)
-1. [山西饭店坍塌致 29 死](https://www.zhihu.com/search?q=聚仙饭店)
-1. [海地地震死亡人数至 1297 人](https://www.zhihu.com/search?q=海地地震)
-1. [小米汽车总部将落户北京](https://www.zhihu.com/search?q=小米汽车)
-1. [iPhone 13 价格或与 12 一致](https://www.zhihu.com/search?q=iPhone 13 )
-1. [芒果 TV 艺人艺德承诺书](https://www.zhihu.com/search?q=艺德承诺书)
   <!-- END -->
