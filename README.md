@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Aug 17 2021 20:10:43 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Aug 17 2021 21:09:30 GMT+0000 (Coordinated Universal Time) -->
   1. [吴亦凡被批捕](https://www.zhihu.com/search?q=吴亦凡)
 1. [阿富汗首都降下国旗](https://www.zhihu.com/search?q=阿富汗)
 1. [海地地震死亡人数至 1297 人](https://www.zhihu.com/search?q=海地地震)
@@ -14,5 +14,4 @@
 1. [小米汽车总部将落户北京](https://www.zhihu.com/search?q=小米汽车)
 1. [小米 MIX 4 首卖秒售罄](https://www.zhihu.com/search?q=小米mix4)
 1. [芒果 TV 艺人艺德承诺书](https://www.zhihu.com/search?q=艺德承诺书)
-1. [剧本杀抄袭盗版泛滥](https://www.zhihu.com/search?q=剧本杀)
   <!-- END -->
