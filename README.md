@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Aug 19 2021 20:10:50 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Aug 19 2021 21:08:40 GMT+0000 (Coordinated Universal Time) -->
   1. [孟晚舟](https://www.zhihu.com/search?q=孟晚舟)
 1. [3 个月大婴儿被「快递」](https://www.zhihu.com/search?q=婴儿被快递)
 1. [宫崎骏作品被刷 1 星](https://www.zhihu.com/search?q=宫崎骏)
