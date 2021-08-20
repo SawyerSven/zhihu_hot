@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Aug 20 2021 00:33:52 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Aug 20 2021 01:49:39 GMT+0000 (Coordinated Universal Time) -->
   1. [孟晚舟](https://www.zhihu.com/search?q=孟晚舟)
 1. [3 个月大婴儿被「快递」](https://www.zhihu.com/search?q=婴儿被快递)
 1. [塔利班首场发布会](https://www.zhihu.com/search?q=塔利班)
