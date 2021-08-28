@@ -3,15 +3,17 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Aug 28 2021 15:10:21 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Aug 28 2021 16:14:55 GMT+0000 (Coordinated Universal Time) -->
   1. [大连凯旋国际大厦失火](https://www.zhihu.com/search?q=大连 失火)
 1. [郑爽被罚款 2.99 亿元  ](https://www.zhihu.com/search?q=郑爽)
 1. [喀布尔机场发生两起爆炸](https://www.zhihu.com/search?q=喀布尔机场)
 1. [《扫黑》大江亲自答](https://www.zhihu.com/search?q=扫黑风暴)
-1. [湖南卫视解除与钱枫的合作](https://www.zhihu.com/search?q=湖南卫视钱枫)
-1. [还珠格格下架](https://www.zhihu.com/search?q=还珠格格)
+1. [QQ 音乐限制专辑重复购买](https://www.zhihu.com/search?q=QQ音乐)
+1. [残奥会中国队被取消一金一银 ](https://www.zhihu.com/search?q=残奥会)
 1. [明日5一公主题原生](https://www.zhihu.com/search?q=明日创作计划)
 1. [一人之下 541 话更新](https://www.zhihu.com/search?q=一人之下)
+1. [还珠格格下架](https://www.zhihu.com/search?q=还珠格格)
+1. [湖南卫视解除与钱枫的合作](https://www.zhihu.com/search?q=湖南卫视钱枫)
 1. [崔健新专辑](https://www.zhihu.com/search?q=崔健)
 1. [喜羊羊与灰太狼官方答](https://www.zhihu.com/search?q=喜羊羊与灰太狼)
   <!-- END -->
