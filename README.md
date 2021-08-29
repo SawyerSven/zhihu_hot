@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Aug 29 2021 19:07:57 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Aug 29 2021 20:10:14 GMT+0000 (Coordinated Universal Time) -->
   1. [媒体发文批评游戏圈](https://www.zhihu.com/search?q=手机游戏)
 1. [《光恋》齐司礼生日卡](https://www.zhihu.com/search?q=光与夜之恋)
 1. [全国网游用户锐减](https://www.zhihu.com/search?q=网络游戏)
