@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Aug 30 2021 19:09:08 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Aug 30 2021 20:10:54 GMT+0000 (Coordinated Universal Time) -->
   1. [《理想之城》主演亲自答](https://www.zhihu.com/search?q=理想之城)
 1. [前妻指控李阳家暴女儿](https://www.zhihu.com/search?q=李阳家暴)
 1. [前国际奥委会主席罗格去世](https://www.zhihu.com/search?q=罗格)
@@ -14,5 +14,4 @@
 1. [教育部要求不得设置重点班](https://www.zhihu.com/search?q=重点班)
 1. [电影《失控玩家》](https://www.zhihu.com/search?q=失控玩家)
 1. [华为海外发布 EMUI 12](https://www.zhihu.com/search?q=华为 EMUI12)
-1. [梅西上演巴黎首秀](https://www.zhihu.com/search?q=梅西)
   <!-- END -->
