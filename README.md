@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Aug 30 2021 09:10:13 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Aug 30 2021 10:11:34 GMT+0000 (Coordinated Universal Time) -->
   1. [电影《失控玩家》](https://www.zhihu.com/search?q=失控玩家)
 1. [前妻指控李阳家暴女儿](https://www.zhihu.com/search?q=李阳家暴)
 1. [前国际奥委会主席罗格去世](https://www.zhihu.com/search?q=罗格)
