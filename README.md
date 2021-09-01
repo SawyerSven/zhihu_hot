@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Sep 01 2021 12:16:13 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Sep 01 2021 13:17:30 GMT+0000 (Coordinated Universal Time) -->
   1. [《扫黑风暴》导演亲自答](https://www.zhihu.com/search?q=扫黑风暴)
 1. [郎平卸任女排主教练](https://www.zhihu.com/search?q=郎平)
 1. [云南虫谷](https://www.zhihu.com/search?q=云南虫谷)
@@ -13,8 +13,6 @@
 1. [蔡徐坤新专涉嫌违法](https://www.zhihu.com/search?q=蔡徐坤)
 1. [雷军 100 亿注册汽车公司](https://www.zhihu.com/search?q=小米汽车)
 1. [进击的巨人角色人气投票](https://www.zhihu.com/search?q=进击的巨人)
+1. [《少年歌行》导演亲自答](https://www.zhihu.com/search?q=少年歌行)
 1. [台州女尸案凶手系其丈夫](https://www.zhihu.com/search?q=台州女尸)
-1. [iPhone 13 或有天文模式](https://www.zhihu.com/search?q=iPhone 13)
-1. [沉迷网游改变大脑结构](https://www.zhihu.com/search?q=大脑结构)
-1. [未成年在女仆桌游挥霍巨款](https://www.zhihu.com/search?q=桌游)
   <!-- END -->
