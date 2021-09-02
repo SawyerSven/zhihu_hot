@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Sep 02 2021 20:10:59 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Sep 02 2021 21:08:52 GMT+0000 (Coordinated Universal Time) -->
   1. [洗碗机均价破 7000 元](https://www.zhihu.com/search?q=洗碗机)
 1. [志愿军烈士遗骸归国](https://www.zhihu.com/search?q=志愿军)
 1. [网红郭老师全平台账号被封](https://www.zhihu.com/search?q=郭老师)
