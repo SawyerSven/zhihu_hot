@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Sep 03 2021 09:10:33 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Sep 03 2021 10:11:36 GMT+0000 (Coordinated Universal Time) -->
   1. [《少年歌行》导演亲自答](https://www.zhihu.com/search?q=少年歌行)
 1. [抗日战争胜利 76 周年](https://www.zhihu.com/search?q=抗日战争胜利)
 1. [志愿军烈士遗骸归国](https://www.zhihu.com/search?q=志愿军)
@@ -13,6 +13,6 @@
 1. [社交牛逼症](https://www.zhihu.com/search?q=社交牛逼症)
 1. [小米汽车落户北京](https://www.zhihu.com/search?q=小米汽车总部)
 1. [小鹏汽车宣布取消大小周](https://www.zhihu.com/search?q=小鹏汽车)
+1. [EDG 夺夏季赛冠军](https://www.zhihu.com/search?q=EDG)
 1. [海贼王 1024 话情报](https://www.zhihu.com/search?q=海贼王)
-1. [陈创 不期而遇的夏天](https://www.zhihu.com/search?q=不期而遇的夏天)
   <!-- END -->
