@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Sep 05 2021 06:12:14 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Sep 05 2021 07:10:09 GMT+0000 (Coordinated Universal Time) -->
   1. [人生重开模拟器](https://www.zhihu.com/search?q=人生重开模拟器)
 1. [微信聊天记录付费云存储](https://www.zhihu.com/search?q=微信 云储存)
 1. [win11 任务栏卡死](https://www.zhihu.com/search?q=windows任务栏)
