@@ -3,16 +3,15 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Sep 10 2021 07:10:33 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Sep 10 2021 08:12:10 GMT+0000 (Coordinated Universal Time) -->
   1. [劳荣枝一审被判死刑](https://www.zhihu.com/search?q=劳荣枝)
 1. [教师节快乐](https://www.zhihu.com/search?q=教师节)
 1. [李银河谈勇敢](https://www.zhihu.com/search?q=李银河)
 1. [张继科没有主角光环](https://www.zhihu.com/search?q=张继科)
 1. [2021 数学建模国赛](https://www.zhihu.com/search?q=数学建模国赛)
-1. [杭州亚运会电竞项目公布](https://www.zhihu.com/search?q=亚运会)
-1. [专家建议艺人持证上岗](https://www.zhihu.com/search?q=艺人持证上岗)
 1. [李维嘉代言翻车](https://www.zhihu.com/search?q=李维嘉)
-1. [过半学生可解开防沉迷](https://www.zhihu.com/search?q=防沉迷)
 1. [官方约谈腾讯网易](https://www.zhihu.com/search?q=腾讯网易)
-1. [一人之下 543 话更新](https://www.zhihu.com/search?q=一人之下)
+1. [杭州亚运会电竞项目公布](https://www.zhihu.com/search?q=亚运会)
+1. [过半学生可解开防沉迷](https://www.zhihu.com/search?q=防沉迷)
+1. [专家建议艺人持证上岗](https://www.zhihu.com/search?q=艺人持证上岗)
   <!-- END -->
