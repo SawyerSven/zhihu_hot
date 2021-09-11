@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Sep 11 2021 10:10:52 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Sep 11 2021 11:08:24 GMT+0000 (Coordinated Universal Time) -->
   1. [「911 事件」20 年](https://www.zhihu.com/search?q=911)
 1. [「货拉拉」案宣判](https://www.zhihu.com/search?q=货拉拉)
 1. [李银河谈勇敢](https://www.zhihu.com/search?q=李银河)
