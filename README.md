@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Sep 12 2021 18:11:30 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Sep 12 2021 19:08:03 GMT+0000 (Coordinated Universal Time) -->
   1. [「911 事件」20 年](https://www.zhihu.com/search?q=911)
 1. [大连一住户家中发生燃爆](https://www.zhihu.com/search?q=大连 燃爆)
 1. [重庆一对闺蜜公厕遇害](https://www.zhihu.com/search?q=重庆 公厕遇害)
