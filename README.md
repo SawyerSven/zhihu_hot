@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Sep 13 2021 22:10:12 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Sep 13 2021 23:10:46 GMT+0000 (Coordinated Universal Time) -->
   1. [精灵宝可梦：可可](https://www.zhihu.com/search?q=精灵宝可梦可可)
 1. [米哈游警告原神数据网](https://www.zhihu.com/search?q=原神)
 1. [律所通告武汉枪击案](https://www.zhihu.com/search?q=武汉枪击)
