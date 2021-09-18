@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Sep 18 2021 20:10:18 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Sep 18 2021 21:08:41 GMT+0000 (Coordinated Universal Time) -->
   1. [中秋节礼物推荐](https://www.zhihu.com/search?q=中秋节礼物)
 1. [福建疫情](https://www.zhihu.com/search?q=福建疫情)
 1. [山西前首富李兆会被法院悬赏](https://www.zhihu.com/search?q=李兆会)
