@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Sep 24 2021 21:08:57 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Sep 24 2021 22:10:09 GMT+0000 (Coordinated Universal Time) -->
   1. [任天堂直面会](https://www.zhihu.com/search?q= 任天堂)
 1. [少年歌行导演亲自答](https://www.zhihu.com/search?q=少年歌行)
 1. [苏炳添全运会接力摘银](https://www.zhihu.com/search?q=苏炳添)
