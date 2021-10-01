@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Oct 01 2021 21:09:16 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Oct 01 2021 22:10:22 GMT+0000 (Coordinated Universal Time) -->
   1. [原神感恩答谢](https://www.zhihu.com/search?q=原神)
 1. [韩东君 长津湖](https://www.zhihu.com/search?q=长津湖)
 1. [《我和我的父辈》](https://www.zhihu.com/search?q=我和我的父辈)
