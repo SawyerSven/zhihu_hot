@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Oct 02 2021 21:08:55 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Oct 02 2021 22:09:58 GMT+0000 (Coordinated Universal Time) -->
   1. [《一人之下》更新](https://www.zhihu.com/search?q=一人之下)
 1. [皮皮鲁与鲁西西大电影](https://www.zhihu.com/search?q=皮皮鲁与鲁西西之罐头小人)
 1. [澳大利亚承认科兴疫苗](https://www.zhihu.com/search?q=科兴疫苗)
