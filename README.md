@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Oct 07 2021 21:09:20 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Oct 07 2021 22:10:22 GMT+0000 (Coordinated Universal Time) -->
   1. [诺贝尔化学奖公布](https://www.zhihu.com/search?q=诺贝尔化学奖)
 1. [米哈游崩坏系列新作](https://www.zhihu.com/search?q=崩坏：星穹铁道)
 1. [河北承德紧急寻人](https://www.zhihu.com/search?q=承德密切接触者)
