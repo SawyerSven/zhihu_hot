@@ -3,16 +3,16 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Oct 07 2021 07:10:40 GMT+0000 (Coordinated Universal Time) -->
-  1. [喝百草枯 13 岁女孩情况恶化](https://www.zhihu.com/search?q=百草枯)
-1. [诺贝尔化学奖公布](https://www.zhihu.com/search?q=诺贝尔化学奖)
-1. [山西启动 Ⅲ 级应急响应](https://www.zhihu.com/search?q=山西)
-1. [四川地震局致歉](https://www.zhihu.com/search?q=四川地震)
+  <!-- 最后更新时间:Thu Oct 07 2021 08:12:44 GMT+0000 (Coordinated Universal Time) -->
+  1. [诺贝尔化学奖公布](https://www.zhihu.com/search?q=诺贝尔化学奖)
+1. [诺贝尔物理学奖公布](https://www.zhihu.com/search?q=诺贝尔物理学奖)
+1. [Windows 11 推送](https://www.zhihu.com/search?q=Windows11)
+1. [喝百草枯 13 岁女孩情况恶化](https://www.zhihu.com/search?q=百草枯)
 1. [S11 揭幕战开门红](https://www.zhihu.com/search?q=lng)
 1. [浙江发现鹦鹉热病例](https://www.zhihu.com/search?q=鹦鹉热)
 1. [厦门独居女孩被中介杀害 ](https://www.zhihu.com/search?q=独居女孩被杀)
-1. [Windows 11 推送](https://www.zhihu.com/search?q=Windows11)
+1. [四川地震局致歉](https://www.zhihu.com/search?q=四川地震)
 1. [加索尔宣布退役](https://www.zhihu.com/search?q=加索尔)
 1. [米哈游崩坏系列新作](https://www.zhihu.com/search?q=崩坏：星穹铁道)
-1. [原神剧情 PV 人间至味](https://www.zhihu.com/search?q=原神)
+1. [山西启动 Ⅲ 级应急响应](https://www.zhihu.com/search?q=山西)
   <!-- END -->
