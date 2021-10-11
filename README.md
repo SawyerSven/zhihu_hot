@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Oct 11 2021 18:12:00 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Oct 11 2021 19:08:35 GMT+0000 (Coordinated Universal Time) -->
   1. [一拳超人 195 话](https://www.zhihu.com/search?q=一拳超人)
 1. [法国夺欧国联冠军](https://www.zhihu.com/search?q=欧国联)
 1. [特利迦奥特曼 12 话 ](https://www.zhihu.com/search?q=特利迦奥特曼)
