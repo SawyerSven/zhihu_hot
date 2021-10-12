@@ -3,18 +3,16 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Oct 12 2021 08:13:06 GMT+0000 (Coordinated Universal Time) -->
-  1. [鱿鱼游戏适合孩子看吗](https://www.zhihu.com/search?q=鱿鱼游戏)
-1. [德国将在 2022 年全面弃核](https://www.zhihu.com/search?q=德国弃核)
-1. [RNG 世界赛开门红](https://www.zhihu.com/search?q=RNG)
+  <!-- 最后更新时间:Tue Oct 12 2021 09:10:18 GMT+0000 (Coordinated Universal Time) -->
+  1. [《原神》荒泷一斗](https://www.zhihu.com/search?q=原神)
+1. [鱿鱼游戏适合孩子看吗](https://www.zhihu.com/search?q=鱿鱼游戏)
 1. [法国夺欧国联冠军](https://www.zhihu.com/search?q=欧国联)
-1. [诺贝尔经济学奖揭晓](https://www.zhihu.com/search?q=诺贝尔经济学奖)
 1. [河北一大巴车坠入河中](https://www.zhihu.com/search?q=大巴车坠河)
+1. [诺贝尔经济学奖揭晓](https://www.zhihu.com/search?q=诺贝尔经济学奖)
+1. [德国将在 2022 年全面弃核](https://www.zhihu.com/search?q=德国弃核)
 1. [鸿星尔克向山西捐赠物资](https://www.zhihu.com/search?q=鸿星尔克)
 1. [超六成职校学生毕业后不愿当蓝领](https://www.zhihu.com/search?q=职校毕业生)
 1. [大众点评回应王思聪](https://www.zhihu.com/search?q=大众点评)
 1. [新赛季 CBA 季前赛开战](https://www.zhihu.com/search?q=CBA 季前赛)
-1. [台风「圆规」来袭](https://www.zhihu.com/search?q=圆规)
-1. [马克龙发起废除死刑运动](https://www.zhihu.com/search?q=马克龙)
-1. [《原神》荒泷一斗](https://www.zhihu.com/search?q=原神)
+1. [RNG 世界赛开门红](https://www.zhihu.com/search?q=RNG)
   <!-- END -->
