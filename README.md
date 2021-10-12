@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Oct 12 2021 20:10:58 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Oct 12 2021 21:09:09 GMT+0000 (Coordinated Universal Time) -->
   1. [法国夺欧国联冠军](https://www.zhihu.com/search?q=欧国联)
 1. [特利迦奥特曼 12 话 ](https://www.zhihu.com/search?q=特利迦奥特曼)
 1. [福建莆田发生重大刑案](https://www.zhihu.com/search?q=福建刑案)
