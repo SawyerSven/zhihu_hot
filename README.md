@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Oct 16 2021 19:08:19 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Oct 16 2021 20:10:36 GMT+0000 (Coordinated Universal Time) -->
   1. [神舟十三号发射成功](https://www.zhihu.com/search?q=神舟十三号)
 1. [原神整活马斯克](https://www.zhihu.com/search?q=原神)
 1. [一人之下 547 话更新](https://www.zhihu.com/search?q=一人之下)
@@ -14,6 +14,4 @@
 1. [搜狗 15 日正式并入腾讯](https://www.zhihu.com/search?q=搜狗)
 1. [海底捞回应能否办婚礼](https://www.zhihu.com/search?q=海底捞)
 1. [小米电视大师降价](https://www.zhihu.com/search?q=小米电视大师)
-1. [《兰心大剧院》](https://www.zhihu.com/search?q=兰心大剧院)
-1. [LGD 晋级 TI10 总决赛](https://www.zhihu.com/search?q=LGD)
   <!-- END -->
