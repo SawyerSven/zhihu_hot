@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Oct 18 2021 21:09:14 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Oct 18 2021 22:10:37 GMT+0000 (Coordinated Universal Time) -->
   1. [RNG C 组第一出线](https://www.zhihu.com/search?q=RNG)
 1. [LGD 获得 TI10 亚军](https://www.zhihu.com/search?q=LGD)
 1. [LNG 止步小组赛](https://www.zhihu.com/search?q=LNG)
@@ -14,6 +14,4 @@
 1. [四川乐山发生 4.3 级地震](https://www.zhihu.com/search?q=乐山)
 1. [国漫《魔道祖师》大结局](https://www.zhihu.com/search?q=魔道祖师)
 1. [媒体评樊振东谢绝礼物](https://www.zhihu.com/search?q=樊振东)
-1. [MacBook Pro 刘海屏](https://www.zhihu.com/search?q=MacBook Pro 刘海屏)
-1. [上海旅行团 7 人均阳性](https://www.zhihu.com/search?q=上海旅行团)
   <!-- END -->
