@@ -3,17 +3,18 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Oct 19 2021 10:11:55 GMT+0000 (Coordinated Universal Time) -->
-  1. [第三代 AirPods](https://www.zhihu.com/search?q=airpods3)
-1. [LGD 获得 TI10 亚军](https://www.zhihu.com/search?q=LGD)
+  <!-- 最后更新时间:Tue Oct 19 2021 11:08:58 GMT+0000 (Coordinated Universal Time) -->
+  1. [何同学 「AirDesk」](https://www.zhihu.com/search?q=何同学)
+1. [MacBook Pro 刘海屏](https://www.zhihu.com/search?q=macbookpro)
 1. [S11 八强赛 LPL 内战](https://www.zhihu.com/search?q=s11八强赛)
 1. [张恒帮郑爽偷逃税被罚 3227 万元](https://www.zhihu.com/search?q=张恒)
 1. [莆田刑案嫌犯拒捕畏罪自杀](https://www.zhihu.com/search?q=莆田刑案)
-1. [MacBook Pro 刘海屏](https://www.zhihu.com/search?q=macbookpro)
+1. [新番佳作《国王排名》](https://www.zhihu.com/search?q=国王排名)
+1. [苹果发布全新 M1 系列芯片](https://www.zhihu.com/search?q=m1 max)
+1. [第三代 AirPods](https://www.zhihu.com/search?q=airpods3)
 1. [RNG C 组第一出线](https://www.zhihu.com/search?q=RNG)
+1. [媒体评樊振东谢绝礼物](https://www.zhihu.com/search?q=樊振东)
+1. [LGD 获得 TI10 亚军](https://www.zhihu.com/search?q=LGD)
 1. [四川乐山发生 4.3 级地震](https://www.zhihu.com/search?q=乐山)
 1. [国漫《魔道祖师》大结局](https://www.zhihu.com/search?q=魔道祖师)
-1. [媒体评樊振东谢绝礼物](https://www.zhihu.com/search?q=樊振东)
-1. [小红书将推出「踩坑榜」](https://www.zhihu.com/search?q=小红书)
-1. [何同学 「AirDesk」](https://www.zhihu.com/search?q=何同学)
   <!-- END -->
