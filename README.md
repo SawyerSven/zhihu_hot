@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Oct 20 2021 21:09:14 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Wed Oct 20 2021 22:10:25 GMT+0000 (Coordinated Universal Time) -->
   1. [S11 八强赛 LPL 内战](https://www.zhihu.com/search?q=s11八强赛)
 1. [麦当劳被曝使用过期食材](https://www.zhihu.com/search?q=麦当劳)
 1. [国内疫情最新情况](https://www.zhihu.com/search?q=国内疫情新增)
