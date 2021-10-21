@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Oct 21 2021 21:09:30 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Oct 21 2021 22:10:46 GMT+0000 (Coordinated Universal Time) -->
   1. [《功勋》大结局](https://www.zhihu.com/search?q=功勋)
 1. [警方通报李云迪嫖娼](https://www.zhihu.com/search?q=李云迪)
 1. [国内疫情最新情况](https://www.zhihu.com/search?q=国内疫情新增)
