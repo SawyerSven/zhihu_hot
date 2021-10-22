@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Oct 22 2021 12:17:07 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Fri Oct 22 2021 13:18:26 GMT+0000 (Coordinated Universal Time) -->
   1. [《功勋》大结局](https://www.zhihu.com/search?q=功勋)
 1. [警方通报李云迪嫖娼](https://www.zhihu.com/search?q=李云迪)
 1. [国内疫情最新情况](https://www.zhihu.com/search?q=国内疫情新增)
@@ -14,7 +14,4 @@
 1. [《不速来客》](https://www.zhihu.com/search?q=不速来客)
 1. [华为开发者大会 HDC 2021](https://www.zhihu.com/search?q=华为开发者大会)
 1. [索尼发布全画幅微单A7M4](https://www.zhihu.com/search?q=索尼a7m4)
-1. [2022 国考报名超 40 万](https://www.zhihu.com/search?q=国考报名)
-1. [乌合麒麟新作](https://www.zhihu.com/search?q=乌合麒麟)
-1. [昌平新增 4 例确诊病例](https://www.zhihu.com/search?q=昌平疫情)
   <!-- END -->
