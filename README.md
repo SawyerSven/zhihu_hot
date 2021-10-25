@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Oct 25 2021 22:10:43 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Oct 25 2021 23:11:11 GMT+0000 (Coordinated Universal Time) -->
   1. [1024 程序员节](https://www.zhihu.com/search?q=程序员节)
 1. [于月仙车祸处理结果](https://www.zhihu.com/search?q=于月仙)
 1. [大连一居民楼发生爆炸](https://www.zhihu.com/search?q=大连爆炸)
