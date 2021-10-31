@@ -3,9 +3,9 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Oct 31 2021 20:10:50 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Oct 31 2021 21:09:23 GMT+0000 (Coordinated Universal Time) -->
   1. [一人之下 584 话更新](https://www.zhihu.com/search?q=一人之下)
-1. [海贼王 1030 话](https://www.zhihu.com/search?q=海贼王)
+1. [DK 击败 T1 挺进决赛](https://www.zhihu.com/search?q=DK)
 1. [EDG S11 晋级总决赛](https://www.zhihu.com/search?q=edg)
 1. [王者荣耀动画预告](https://www.zhihu.com/search?q=王者荣耀动画)
 1. [黑龙江省疫情](https://www.zhihu.com/search?q=黑龙江疫情)
@@ -14,5 +14,5 @@
 1. [草东鼓手陈忆凡去世](https://www.zhihu.com/search?q=草东没有派对)
 1. [王者荣耀新英雄「暃」](https://www.zhihu.com/search?q=暃)
 1. [台湾首例新冠 AY.4.2 亚变异株](https://www.zhihu.com/search?q=台湾新冠)
-1. [DK 击败 T1 挺进决赛](https://www.zhihu.com/search?q=DK)
+1. [海贼王 1030 话](https://www.zhihu.com/search?q=海贼王)
   <!-- END -->
