@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Mon Nov 01 2021 03:11:41 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Mon Nov 01 2021 04:14:11 GMT+0000 (Coordinated Universal Time) -->
   1. [上海迪士尼暂停开放](https://www.zhihu.com/search?q=上海迪士尼)
 1. [詹姆斯复出湖人胜骑士](https://www.zhihu.com/search?q=詹姆斯)
 1. [EDG S11 晋级总决赛](https://www.zhihu.com/search?q=edg)
@@ -14,8 +14,4 @@
 1. [DK 击败 T1 挺进决赛](https://www.zhihu.com/search?q=DK)
 1. [斗破苍穹三年之约](https://www.zhihu.com/search?q=斗破苍穹特别篇3)
 1. [铁路儿童客票拟改为年龄划分](https://www.zhihu.com/search?q=儿童客票)
-1. [王者荣耀开放世界新游](https://www.zhihu.com/search?q=王者荣耀世界)
-1. [草东鼓手陈忆凡去世](https://www.zhihu.com/search?q=草东没有派对)
-1. [或出现无法控制的新病毒](https://www.zhihu.com/search?q=新病毒)
-1. [青岛出现 100 公里红海滩](https://www.zhihu.com/search?q=青岛红海滩)
   <!-- END -->
