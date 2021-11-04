@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Nov 04 2021 22:10:42 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Nov 04 2021 23:11:07 GMT+0000 (Coordinated Universal Time) -->
   1. [耐克元宇宙卖鞋](https://www.zhihu.com/search?q=元宇宙)
 1. [云鸟科技申请破产](https://www.zhihu.com/search?q=云鸟科技)
 1. [Notability 致歉](https://www.zhihu.com/search?q=Notability)
