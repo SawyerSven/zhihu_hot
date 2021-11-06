@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Nov 06 2021 00:35:43 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Nov 06 2021 01:50:21 GMT+0000 (Coordinated Universal Time) -->
   1. [英特尔 12 代酷睿处理器](https://www.zhihu.com/search?q=12代酷睿)
 1. [杜兰特 32 分篮网 3 连胜](https://www.zhihu.com/search?q=杜兰特)
 1. [美联储 11 月启动缩债计划](https://www.zhihu.com/search?q=美联储)
