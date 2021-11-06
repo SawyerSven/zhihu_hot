@@ -3,7 +3,7 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sat Nov 06 2021 21:09:12 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sat Nov 06 2021 22:10:34 GMT+0000 (Coordinated Universal Time) -->
   1. [英特尔 12 代酷睿处理器](https://www.zhihu.com/search?q=12代酷睿)
 1. [杨洋起诉痘博士侵犯肖像权](https://www.zhihu.com/search?q=杨洋 痘博士)
 1. [S11 EDG 夺冠 ](https://www.zhihu.com/search?q=EDG)
