@@ -3,10 +3,10 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Nov 24 2021 22:10:47 GMT+0000 (Coordinated Universal Time) -->
-  1. [双城之战结局生死](https://www.zhihu.com/search?q=双城之战)
-1. [无职转生 part.2 更新](https://www.zhihu.com/search?q=无职转生)
+  <!-- 最后更新时间:Wed Nov 24 2021 23:11:15 GMT+0000 (Coordinated Universal Time) -->
+  1. [无职转生 part.2 更新](https://www.zhihu.com/search?q=无职转生)
 1. [詹姆斯被禁赛 1 场](https://www.zhihu.com/search?q=詹姆斯)
+1. [双城之战结局生死](https://www.zhihu.com/search?q=双城之战)
 1. [杜兰特 27 分篮网逆转骑士](https://www.zhihu.com/search?q=篮网)
 1. [地质队员遇难或因失温所致](https://www.zhihu.com/search?q=地质队员)
 1. [2021 年 CPA 成绩公布](https://www.zhihu.com/search?q=CPA成绩)
