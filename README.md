@@ -3,18 +3,16 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Fri Dec 17 2021 22:10:57 GMT+0000 (Coordinated Universal Time) -->
-  1. [伯恩斯上任美驻华大使](https://www.zhihu.com/search?q=美国驻华大使)
-1. [冬奥会倒计时 50 天](https://www.zhihu.com/search?q=冬奥会)
+  <!-- 最后更新时间:Fri Dec 17 2021 23:11:45 GMT+0000 (Coordinated Universal Time) -->
+  1. [广州疫情](https://www.zhihu.com/search?q=广州疫情)
 1. [Epic 冬促免费](https://www.zhihu.com/search?q=epic)
 1. [原神 40w 重氪玩家毁号](https://www.zhihu.com/search?q=原神)
-1. [广州疫情](https://www.zhihu.com/search?q=广州疫情)
+1. [豆瓣回复功能重新开放](https://www.zhihu.com/search?q=豆瓣回复)
 1. [新海诚新作铃芽户缔](https://www.zhihu.com/search?q=铃芽户缔)
+1. [冬奥会倒计时 50 天](https://www.zhihu.com/search?q=冬奥会)
 1. [《雄狮少年》上映](https://www.zhihu.com/search?q=雄狮少年)
 1. [大学生剽窃冬奥作品被处分](https://www.zhihu.com/search?q=吉林动画学院)
 1. [游戏《幻塔》上线](https://www.zhihu.com/search?q=幻塔)
 1. [漳州海滩事故家属发声](https://www.zhihu.com/search?q=福建漳州海滩)
-1. [「县域普通高中提升计划」](https://www.zhihu.com/search?q=县域普通高中)
-1. [「学前提升计划」发布](https://www.zhihu.com/search?q=学前提升计划)
-1. [超新星运动会决赛](https://www.zhihu.com/search?q=超新星运动会)
+1. [伯恩斯上任美驻华大使](https://www.zhihu.com/search?q=美国驻华大使)
   <!-- END -->
