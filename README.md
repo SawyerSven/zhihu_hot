@@ -3,18 +3,19 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Sun Dec 19 2021 16:16:35 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Sun Dec 19 2021 17:18:10 GMT+0000 (Coordinated Universal Time) -->
   1. [王力宏父亲手写信](https://www.zhihu.com/search?q=王力宏父亲)
 1. [媒体评王力宏事件](https://www.zhihu.com/search?q=王力宏事件)
-1. [西安出血热](https://www.zhihu.com/search?q=出血热)
 1. [广东疫情](https://www.zhihu.com/search?q=广东疫情)
+1. [西安出血热](https://www.zhihu.com/search?q=出血热)
+1. [斗破苍穹三年之约更新](https://www.zhihu.com/search?q=斗破苍穹三年之约)
 1. [国王排名第十集](https://www.zhihu.com/search?q=国王排名)
+1. [特利迦奥特曼更新](https://www.zhihu.com/search?q=特利迦奥特曼)
+1. [上海新增本土确诊 1 例](https://www.zhihu.com/search?q=上海疫情)
+1. [北京通州某画室一学生核酸检测阳性](https://www.zhihu.com/search?q=北京疫情)
+1. [媒体评玲娜贝儿玩偶被炒至天价](https://www.zhihu.com/search?q=玲娜贝儿价格)
 1. [2021 年中国电竞市场总收入 1401.81 亿元](https://www.zhihu.com/search?q=中国电竞市场总收入)
 1. [申通站点回应抛扔快递](https://www.zhihu.com/search?q=申通)
-1. [北京通州某画室一学生核酸检测阳性](https://www.zhihu.com/search?q=北京疫情)
 1. [凡人修仙传年番更新](https://www.zhihu.com/search?q=凡人修仙传)
 1. [海贼王 1035 话](https://www.zhihu.com/search?q=海贼王)
-1. [斗破苍穹三年之约更新](https://www.zhihu.com/search?q=斗破苍穹三年之约)
-1. [多个品牌和王力宏解约](https://www.zhihu.com/search?q=王力宏合作)
-1. [特利迦奥特曼更新](https://www.zhihu.com/search?q=特利迦奥特曼)
   <!-- END -->
