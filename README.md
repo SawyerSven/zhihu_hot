@@ -3,16 +3,17 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Wed Dec 29 2021 08:14:05 GMT+0000 (Coordinated Universal Time) -->
-  1. [西安疫情](https://www.zhihu.com/search?q=西安疫情)
-1. [长沙发生持刀伤人事件](https://www.zhihu.com/search?q=长沙持刀伤人)
-1. [小米 12 系列](https://www.zhihu.com/search?q=小米12)
+  <!-- 最后更新时间:Wed Dec 29 2021 09:11:52 GMT+0000 (Coordinated Universal Time) -->
+  1. [长沙发生持刀伤人事件](https://www.zhihu.com/search?q=长沙持刀伤人)
 1. [B 站 UP 主将被幻塔起诉](https://www.zhihu.com/search?q=幻塔)
 1. [张庭夫妇涉嫌传销被查处](https://www.zhihu.com/search?q=张庭)
-1. [姐弟坠亡案被告聊天记录](https://www.zhihu.com/search?q=姐弟坠亡案)
+1. [西安疫情](https://www.zhihu.com/search?q=西安疫情)
+1. [小米 12 系列](https://www.zhihu.com/search?q=小米12)
+1. [女排队长朱婷起诉网友诽谤](https://www.zhihu.com/search?q=朱婷)
 1. [高校毕业生规模创新高](https://www.zhihu.com/search?q=高校毕业生规模)
+1. [姐弟坠亡案被告聊天记录](https://www.zhihu.com/search?q=姐弟坠亡案)
+1. [重庆姐弟坠亡案宣判](https://www.zhihu.com/search?q=重庆姐弟坠亡案)
 1. [「山姆退卡潮」](https://www.zhihu.com/search?q=山姆退卡)
 1. [让-马克·瓦雷去世](https://www.zhihu.com/search?q=让马克去世)
 1. [相互宝宣布将于明年关停](https://www.zhihu.com/search?q=相互宝)
-1. [重庆姐弟坠亡案宣判](https://www.zhihu.com/search?q=重庆姐弟坠亡案)
   <!-- END -->
