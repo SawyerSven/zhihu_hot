@@ -3,16 +3,17 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Feb 10 2022 10:12:18 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Feb 10 2022 11:08:50 GMT+0000 (Coordinated Universal Time) -->
   1. [美国起诉特斯拉](https://www.zhihu.com/search?q=美国起诉特斯拉)
-1. [确保教师工资不低于公务员](https://www.zhihu.com/search?q=确保教师工资不低于公务员)
-1. [谷爱凌回应美国网友批评](https://www.zhihu.com/search?q=谷爱凌回应)
 1. [任天堂直面会](https://www.zhihu.com/search?q=任天堂)
+1. [确保教师工资不低于公务员](https://www.zhihu.com/search?q=确保教师工资不低于公务员)
+1. [字母 44 分雄鹿胜湖人](https://www.zhihu.com/search?q=湖人)
 1. [《水门桥》韩东君亲自答](https://www.zhihu.com/search?q=水门桥)
-1. [原神八重神子角色 PV](https://www.zhihu.com/search?q=原神)
-1. [武大靖的脚像 50 岁](https://www.zhihu.com/search?q=武大靖)
 1. [中国灵活就业者达 2 亿人](https://www.zhihu.com/search?q=灵活就业者)
+1. [羽生结弦出战自由滑](https://www.zhihu.com/search?q=花样滑冰)
+1. [谷爱凌回应美国网友批评](https://www.zhihu.com/search?q=谷爱凌回应)
+1. [武大靖的脚像 50 岁](https://www.zhihu.com/search?q=武大靖)
+1. [原神八重神子角色 PV](https://www.zhihu.com/search?q=原神)
 1. [喜茶员工爆料公司苛待员工](https://www.zhihu.com/search?q=喜茶员工爆料)
 1. [蔡雪桐刘佳宇无缘奖牌](https://www.zhihu.com/search?q=单板滑雪)
-1. [画江湖之不良人 5 更新](https://www.zhihu.com/search?q=画江湖)
   <!-- END -->
