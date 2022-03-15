@@ -3,16 +3,18 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Tue Mar 15 2022 22:12:58 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Tue Mar 15 2022 23:12:15 GMT+0000 (Coordinated Universal Time) -->
   1. [武汉疫情疑似与美国进口冰鲜龙虾相关](https://www.zhihu.com/search?q=武汉疫情)
-1. [江歌妈妈百万善款被质疑](https://www.zhihu.com/search?q=江歌妈妈)
-1. [邓伦偷逃税被罚款 1.06 亿元](https://www.zhihu.com/search?q=邓伦偷逃税被查)
-1. [A 股盘中跌破 3100 点](https://www.zhihu.com/search?q=A股)
+1. [为中美关系重回正轨积累条件](https://www.zhihu.com/search?q=中美关系)
 1. [吉林新增 3076 例本土确诊](https://www.zhihu.com/search?q=吉林疫情)
-1. [广东惠州发生 4.1 级地震](https://www.zhihu.com/search?q=广东地震)
+1. [A 股盘中跌破 3100 点](https://www.zhihu.com/search?q=A股)
+1. [国家卫健委发布新版新冠诊疗方案](https://www.zhihu.com/search?q=新版新冠诊疗方案)
+1. [邓伦偷逃税被罚款 1.06 亿元](https://www.zhihu.com/search?q=邓伦偷逃税被查)
 1. [网友反映行程码崩了](https://www.zhihu.com/search?q=行程码)
+1. [德尔塔克戎变体已开始传播](https://www.zhihu.com/search?q=德尔塔克戎)
+1. [广东惠州发生 4.1 级地震](https://www.zhihu.com/search?q=广东地震)
+1. [进击的巨人 最终季更新](https://www.zhihu.com/search?q=进击的巨人)
+1. [江歌妈妈百万善款被质疑](https://www.zhihu.com/search?q=江歌妈妈)
 1. [全国新增本土确诊 1337 无症状 788](https://www.zhihu.com/search?q=全国新增)
 1. [河北新增 162 无症状感染者](https://www.zhihu.com/search?q=河北新增)
-1. [进击的巨人 最终季更新](https://www.zhihu.com/search?q=进击的巨人)
-1. [杜兰特 53+6+9 篮网 3 连胜](https://www.zhihu.com/search?q=篮网)
   <!-- END -->
