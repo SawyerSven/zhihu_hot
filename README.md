@@ -3,17 +3,15 @@
 > 此项目参考自[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search/blob/main/utils.ts)
 
 <!-- BEGIN -->
-  <!-- 最后更新时间:Thu Mar 24 2022 13:20:36 GMT+0000 (Coordinated Universal Time) -->
+  <!-- 最后更新时间:Thu Mar 24 2022 14:11:58 GMT+0000 (Coordinated Universal Time) -->
   1. [《咒术回战》宣称台湾是国家](https://www.zhihu.com/search?q=咒术回战)
-1. [曲婉婷母亲二审维持原判](https://www.zhihu.com/search?q=曲婉婷)
-1. [坠机现场出现滑坡](https://www.zhihu.com/search?q=坠机现场山体滑坡)
 1. [Uzi 转入休养状态](https://www.zhihu.com/search?q=uzi)
-1. [腾讯游戏未成年占比骤降](https://www.zhihu.com/search?q=腾讯游戏)
+1. [坠机现场出现滑坡](https://www.zhihu.com/search?q=坠机现场山体滑坡)
+1. [曲婉婷母亲二审维持原判](https://www.zhihu.com/search?q=曲婉婷)
 1. [东航飞行事故确定主要撞击点](https://www.zhihu.com/search?q=确定坠机事故主要撞击点)
-1. [吉林省本土新增「2320+528」](https://www.zhihu.com/search?q=吉林疫情)
+1. [腾讯游戏未成年占比骤降](https://www.zhihu.com/search?q=腾讯游戏)
 1. [画江湖之不良人第 5 季第 11 集](https://www.zhihu.com/search?q=画江湖之不良人)
-1. [MU5735 航班其中一部黑匣子已找到](https://www.zhihu.com/search?q=MU5735 黑匣子)
+1. [吉林省本土新增「2320+528」](https://www.zhihu.com/search?q=吉林疫情)
 1. [目前发现飞机残骸及人体组织碎片](https://www.zhihu.com/search?q=东航飞行事故进展)
-1. [《海贼王》 1044 话情报](https://www.zhihu.com/search?q=海贼王1044)
-1. [东航坠机事件尚未发现幸存人员](https://www.zhihu.com/search?q=暂未发现幸存人员)
+1. [MU5735 航班其中一部黑匣子已找到](https://www.zhihu.com/search?q=MU5735 黑匣子)
   <!-- END -->
